@@ -1,0 +1,492 @@
+21.1 Reps,21.1 Scores,21.2 Reps,21.2 Scores,21.3 Reps,21.3 Scores,21.4 Scores,Affiliate,Age,Continent,Country,First Name,Height,Height and Weight,Last Name,Placing,Points,Weight,Weight Lifted,_id
+,,,,,,,CrossFit East Nashville,27,Oceania,Australia,Tia-Clair,163 cm ,163 cm | 58 kg,Toomey,1,26, 58 kg,Weight lifted: 230 lbs.,643f1ac9000864d490eac0a9
+,,,,,,,Perform Overcome Excel CrossFit,17,North America,United States,Emma,64 in ,64 in | 140 lb,Cary,2,66, 140 lb,Weight lifted: 218 lbs.,643f1ac9000864d490eac0aa
+,,,,,,,CrossFit Carv,31,Oceania,Australia,Kara,162 cm ,162 cm | 158 lb,Saunders,3,111, 158 lb,Weight lifted: 232 lbs.,643f1ac9000864d490eac0ab
+,,,,,,,CrossFit Polaris,32,North America,United States,Kristi Eramo,62 in ,62 in | 132 lb,"O'Connell",4,189, 132 lb,Weight lifted: 217 lbs.,643f1ac9000864d490eac0ac
+,,,,,,,Lion Brave CrossFit,17,North America,United States,Mallory,63 in ,63 in | 145 lb,"O'Brien",5,211, 145 lb,Weight lifted: 217 lbs.,643f1ac9000864d490eac0ad
+,,,,,,,Boundary CrossFit,31,Europe,Ireland,Emma,165 cm ,165 cm | 64 kg,Mcquaid,6,232, 64 kg,Weight lifted: 224 lbs.,643f1ac9000864d490eac0ae
+,,,,,,,CrossFit Invictus,27,North America,United States,Dani,66 in ,66 in | 168 lb,Speegle,7,238, 168 lb,Weight lifted: 236 lbs.,643f1ac9000864d490eac0af
+,,,,,,,CrossFit Trivium,26,North America,United States,Brooke,66 in ,66 in | 150 lb,Wells,9,243, 150 lb,Weight lifted: 211 lbs.,643f1ac9000864d490eac0b0
+,,,,,,,CrossFit Mayhem,20,North America,United States,Haley,67 in ,67 in | 140 lb,Adams,10,307, 140 lb,Weight lifted: 202 lbs.,643f1ac9000864d490eac0b1
+,,,,,,,CrossFit Trondheim,25,Europe,Norway,Matilde,174 cm ,174 cm | 68 kg,Garnes,11,320, 68 kg,Weight lifted: 203 lbs.,643f1ac9000864d490eac0b2
+,,,,,,,C23 CrossFit,22,Europe,Poland,Gabriela,170 cm ,170 cm | 75 kg,Migała,12,330, 75 kg,Weight lifted: 221 lbs.,643f1ac9000864d490eac0b3
+,,,,,,,CrossFit Culmination,25,North America,United States,Danielle,170 cm ,170 cm | 150 lb,Brandon,13,363, 150 lb,Weight lifted: 210 lbs.,643f1ac9000864d490eac0b4
+,,,,,,,CrossFit New England,28,Europe,Iceland,Katrin Tanja,169 cm ,169 cm | 150 lb,Davidsdottir,14,376, 150 lb,Weight lifted: 206 lbs.,643f1ac9000864d490eac0b5
+,,,,,,,CrossFit Culmination,32,North America,United States,Kari,63 in ,63 in | 139 lb,Pearce,16,398, 139 lb,Weight lifted: 200 lbs.,643f1ac9000864d490eac0b6
+,,,,,,,CrossFit Oslo,35,Europe,Norway,Kristin,162 cm ,162 cm | 59 kg,Holte,17,414, 59 kg,Weight lifted: 198 lbs.,643f1ac9000864d490eac0b7
+,,,,,,,CrossFit Floripa,24,South America,Brazil,Amanda,153 cm ,153 cm | 56 kg,Fusuma,18,458, 56 kg,Weight lifted: 210 lbs.,643f1ac9000864d490eac0b8
+,,,,,,,CrossFit Mayhem,32,North America,United States,Andrea,66 in ,66 in | 154 lb,Nisler,19,460, 154 lb,Weight lifted: 221 lbs.,643f1ac9000864d490eac0b9
+,,,,,,,CrossFit New England,29,North America,United States,Amanda,67 in ,67 in | 160 lb,Barnhart,20,463, 160 lb,Weight lifted: 225 lbs.,643f1ac9000864d490eac0ba
+,,,,,,,CrossFit Culmination,27,North America,United States,Bethany,64 in ,64 in | 144 lb,Shadburne,21,464, 144 lb,Weight lifted: 201 lbs.,643f1ac9000864d490eac0bb
+,,,,,,,CrossFit Pro1,29,North America,Canada,Chloe,67 in ,67 in | 146 lb,Gauvin-David,22,479, 146 lb,Weight lifted: 202 lbs.,643f1ac9000864d490eac0bc
+,,,,,,,Cavaleiros CrossFit,30,South America,Brazil,Larissa,153 cm ,153 cm | 62 kg,Cunha,23,498, 62 kg,Weight lifted: 208 lbs.,643f1ac9000864d490eac0bd
+,,,,,,,Ocean State CrossFit,33,North America,Canada,Amy,163 cm ,163 cm | 154 lb,Morton,24,522, 154 lb,Weight lifted: 212 lbs.,643f1ac9000864d490eac0be
+,,,,,,,CrossFit 514,33,North America,Canada,Carol-Ann,164 cm ,164 cm | 142 lb,Reason-Thibault,28,567, 142 lb,Weight lifted: 200 lbs.,643f1ac9000864d490eac0bf
+,,,,,,,CrossFit Zug,29,Europe,Iceland,Thuridur Erla,164 cm ,164 cm | 59 kg,Helgadottir,29,573, 59 kg,Weight lifted: 198 lbs.,643f1ac9000864d490eac0c0
+,,,,,,,CrossFit Undivided,31,North America,United States,Kristine,63 in ,63 in | 138 lb,Best,30,588, 138 lb,Weight lifted: 202 lbs.,643f1ac9000864d490eac0c1
+,,,,,,,Plus64 CrossFit,27,Oceania,New Zealand,Madeline,165 cm ,165 cm | 69 kg,Shelling,31,638, 69 kg,Weight lifted: 203 lbs.,643f1ac9000864d490eac0c2
+,,,,,,,CrossFit Alpha Prime,26,Europe,Slovakia,Karin,170 cm ,170 cm | 72 kg,Freyová,32,640, 72 kg,Weight lifted: 226 lbs.,643f1ac9000864d490eac0c3
+,,,,,,,CrossFit Northlake,33,North America,United States,Mekenzie,64 in ,64 in | 155 lb,Riley,33,652, 155 lb,Weight lifted: 205 lbs.,643f1ac9000864d490eac0c4
+,,,,,,,12th State CrossFit,21,North America,United States,Shelby,62 in ,62 in | 135 lb,Neal,34,655, 135 lb,Weight lifted: 197 lbs.,643f1ac9000864d490eac0c5
+,,,,,,,C23 CrossFit,29,Europe,Norway,Jacqueline,167 cm ,167 cm | 67 kg,Dahlstrøm,35,658, 67 kg,Weight lifted: 202 lbs.,643f1ac9000864d490eac0c6
+,,,,,,,Rockwell CrossFit,35,North America,United States,Mandi,65 in ,65 in | 150 lb,Janowitz,37,666, 150 lb,Weight lifted: 215 lbs.,643f1ac9000864d490eac0c7
+,,,,,,,CrossFit Vertex,29,North America,United States,Paige,63 in ,63 in | 143 lb,Semenza,39,685, 143 lb,Weight lifted: 197 lbs.,643f1ac9000864d490eac0c8
+,,,,,,,CrossFit Karlstad,29,Europe,Sweden,Emma,168 cm ,168 cm | 68 kg,Tall,42,716, 68 kg,Weight lifted: 204 lbs.,643f1ac9000864d490eac0c9
+,,,,,,,CrossFit Dixie,23,North America,United States,Kloie,67 in ,67 in | 155 lb,Wilson,44,736, 155 lb,Weight lifted: 228 lbs.,643f1ac9000864d490eac0ca
+,,,,,,,CrossFit FFA,33,Europe,Italy,Antea,160 cm ,160 cm | 60 kg,Longo,46,743, 60 kg,Weight lifted: 200 lbs.,643f1ac9000864d490eac0cb
+,,,,,,,CrossFit Berrini,21,South America,Brazil,Gabriella,163 cm ,163 cm | 62 kg,Moratti,47,770, 62 kg,Weight lifted: 218 lbs.,643f1ac9000864d490eac0cc
+,,,,,,,Reebok CrossFit Frankston,24,Oceania,Australia,Madeline,158 cm ,158 cm | 62 kg,Sturt,48,785, 62 kg,Weight lifted: 201 lbs.,643f1ac9000864d490eac0cd
+,,,,,,,CrossFit Mejeriet,28,Europe,Sweden,Hanna,177 cm ,177 cm | 81 kg,Karlsson,49,786, 81 kg,Weight lifted: 210 lbs.,643f1ac9000864d490eac0ce
+,,,,,,,CrossFit Sea Level,32,North America,Canada,Emily,170 cm ,170 cm | 152 lb,Rolfe,50,791, 152 lb,Weight lifted: 195 lbs.,643f1ac9000864d490eac0cf
+,,,,,,,CrossFit 4740,30,Oceania,Australia,Christee,158 cm ,158 cm | 60 kg,Bishop,51,819, 60 kg,Weight lifted: 196 lbs.,643f1ac9000864d490eac0d0
+,,,,,,,CrossFit Glasshouse,24,Europe,Hungary,Laura,170 cm ,170 cm | 70 kg,Horváth,52,845, 70 kg,Weight lifted: 220 lbs.,643f1ac9000864d490eac0d1
+,,,,,,,ESF CrossFit,17,North America,United States,Olivia,65 in ,65 in | 145 lb,Sulek,52,845, 145 lb,Weight lifted: 201 lbs.,643f1ac9000864d490eac0d2
+,,,,,,,CrossFit Fraser Valley,19,North America,Canada,Freya,165 cm ,165 cm | 67 kg,Moosbrugger,54,872, 67 kg,Weight lifted: 208 lbs.,643f1ac9000864d490eac0d3
+,,,,,,,CrossFit Omnia,31,North America,United States,Marykay,63 in ,63 in | 150 lb,Dreisilker,56,889, 150 lb,Weight lifted: 205 lbs.,643f1ac9000864d490eac0d4
+,,,,,,,CrossFit Pro1,30,Europe,France,Manon,163 cm ,163 cm | 145 lb,Lesur,59,898, 145 lb,Weight lifted: 207 lbs.,643f1ac9000864d490eac0d5
+,,,,,,,CrossFit Lower Mountains,31,Oceania,Australia,Justine,163 cm ,163 cm | 140 lb,Beath,60,920, 140 lb,Weight lifted: 198 lbs.,643f1ac9000864d490eac0d6
+,,,,,,,CrossFit Mentality,26,North America,United States,Feeroozeh,62 in ,62 in | 130 lb,Saghafi,62,949, 130 lb,Weight lifted: 191 lbs.,643f1ac9000864d490eac0d7
+,,,,,,,CrossFit Up,34,North America,United States,Kelly,64 in ,64 in | 145 lb,Clark,63,960, 145 lb,Weight lifted: 218 lbs.,643f1ac9000864d490eac0d8
+,,,,,,,CrossFit Nordic,28,Europe,Sweden,Mikaela,179 cm ,179 cm | 68 kg,Norman,64,984, 68 kg,Weight lifted: 190 lbs.,643f1ac9000864d490eac0d9
+,,,,,,,CrossFit Nixa,28,North America,United States,Taylor,64 in ,64 in | 154 lb,Rector,65,1008, 154 lb,Weight lifted: 207 lbs.,643f1ac9000864d490eac0da
+,,,,,,,Styrka CrossFit,30,Europe,Sweden,Camilla,165 cm ,165 cm | 69 kg,Salomonsson Hellman,66,1015, 69 kg,Weight lifted: 199 lbs.,643f1ac9000864d490eac0db
+,,,,,,,CrossFit Invigorate,29,North America,United States,Mary Helen,64 in ,64 in | 142 lb,Saunders,67,1023, 142 lb,Weight lifted: 201 lbs.,643f1ac9000864d490eac0dc
+,,,,,,,CrossFit Roppongi,34,Asia,Japan,Yuko,152 cm ,152 cm | 125 lb,Sakuyama,69,1062, 125 lb,Weight lifted: 191 lbs.,643f1ac9000864d490eac0dd
+,,,,,,,CrossFit Hype,20,North America,United States,Kaela,61 in ,61 in | 116 lb,Stephano,70,1064, 116 lb,Weight lifted: 205 lbs.,643f1ac9000864d490eac0de
+,,,,,,,CrossFit Borgen,31,Europe,Sweden,Emelie,162 cm ,162 cm | 68 kg,Lundberg,71,1066, 68 kg,Weight lifted: 199 lbs.,643f1ac9000864d490eac0df
+,,,,,,,CrossFit 1855,29,North America,Canada,Leigha,161 cm ,161 cm | 137 lb,Dean,73,1075, 137 lb,Weight lifted: 197 lbs.,643f1ac9000864d490eac0e0
+,,,,,,,CrossFit Berea,33,Oceania,New Zealand,Emma,62 in ,62 in | 130 lb,Chapman,75,1084, 130 lb,Weight lifted: 187 lbs.,643f1ac9000864d490eac0e1
+,,,,,,,Blues City CrossFit,30,North America,United States,Taylor,66 in ,66 in | 140 lb,Streid,76,1087, 140 lb,Weight lifted: 192 lbs.,643f1ac9000864d490eac0e2
+,,,,,,,CrossFit Tigran,32,North America,Mexico,Brenda,2 cm ,2 cm | 139 lb,Castro,77,1100, 139 lb,Weight lifted: 206 lbs.,643f1ac9000864d490eac0e3
+,,,,,,,Backstage CrossFit,30,Asia,Russian Federation,Svetlana,155 cm ,155 cm | 60 kg,Kubyshkina,79,1134, 60 kg,Weight lifted: 187 lbs.,643f1ac9000864d490eac0e4
+,,,,,,,CrossFit Black Five,39,Europe,United Kingdom,Samantha,170 cm ,170 cm | 135 lb,Briggs,80,1136, 135 lb,Weight lifted: 187 lbs.,643f1ac9000864d490eac0e5
+,,,,,,,CrossFit Omnia,30,North America,United States,Kelly,65 in ,65 in | 150 lb,Stone,81,1155, 150 lb,Weight lifted: 207 lbs.,643f1ac9000864d490eac0e6
+,,,,,,,CrossFit WaterSide,33,North America,United States,Cassidy,63 in ,63 in | 140 lb,Lance-Mcwherter,82,1167, 140 lb,Weight lifted: 202 lbs.,643f1ac9000864d490eac0e7
+,,,,,,,Caution CrossFit Miami Lakes,27,South America,Venezuela,Laura,67 in ,67 in | 148 lb,Gonzalez-Marin,84,1172, 148 lb,Weight lifted: 193 lbs.,643f1ac9000864d490eac0e8
+,,,,,,,Stroud CrossFit,30,North America,United States,Bailey,62 in ,62 in | 138 lb,Meraviglia,87,1179, 138 lb,Weight lifted: 195 lbs.,643f1ac9000864d490eac0e9
+,,,,,,,C23 CrossFit,23,Europe,Sweden,Ella,170 cm ,170 cm | 65 kg,Wunger,93,1248, 65 kg,Weight lifted: 188 lbs.,643f1ac9000864d490eac0ea
+,,,,,,,CrossFit 10K,34,Europe,Finland,Emilia,165 cm ,165 cm | 150 lb,Leppänen,94,1256, 150 lb,Weight lifted: 187 lbs.,643f1ac9000864d490eac0eb
+,,,,,,,C2X CrossFit,22,North America,United States,Alexis,65 in ,65 in | 138 lb,Raptis,95,1270, 138 lb,Weight lifted: 187 lbs.,643f1ac9000864d490eac0ec
+,,,,,,,JH CrossFit,28,North America,United States,Rachel,63 in ,63 in | 130 lb,Thibodeaux,97,1298, 130 lb,Weight lifted: 196 lbs.,643f1ac9000864d490eac0ed
+,,,,,,,CrossFit PSC,30,North America,Canada,Kaitlyn,63 in ,63 in | 150 lb,Anapolsky,98,1304, 150 lb,Weight lifted: 201 lbs.,643f1ac9000864d490eac0ee
+,,,,,,,CrossFit Nottingham,25,Europe,United Kingdom,Lucy,168 cm ,168 cm | 74 kg,Campbell,99,1324, 74 kg,Weight lifted: 186 lbs.,643f1ac9000864d490eac0ef
+,,,,,,,CrossFit Avignon,31,Europe,France,Tatiana,157 cm ,157 cm | 63 kg,Membré,100,1325, 63 kg,Weight lifted: 205 lbs.,643f1ac9000864d490eac0f0
+,,,,,,,CrossFit Invictus,24,North America,United States,Taylor,65 in ,65 in | 140 lb,Ballek,102,1329, 140 lb,Weight lifted: 187 lbs.,643f1ac9000864d490eac0f1
+,,,,,,,CrossFit Maven,20,North America,United States,Faith,63 in ,63 in | 150 lb,Ferguson,104,1367, 150 lb,Weight lifted: 193 lbs.,643f1ac9000864d490eac0f2
+,,,,,,,CrossFit Invictus Back Bay,29,North America,United States,Stephanie,65 in ,65 in | 150 lb,Chung,106,1373, 150 lb,Weight lifted: 188 lbs.,643f1ac9000864d490eac0f3
+,,,,,,,Derby City CrossFit,27,North America,United States,Lexi,62 in ,62 in | 130 lb,Colabianchi,109,1430, 130 lb,Weight lifted: 202 lbs.,643f1ac9000864d490eac0f4
+,,,,,,,CrossFit Eikestad,28,Africa,South Africa,Mariska,168 cm ,168 cm | 64 kg,Smit,110,1432, 64 kg,Weight lifted: 190 lbs.,643f1ac9000864d490eac0f5
+,,,,,,,CrossFit Grillen,22,Europe,France,Claudia,160 cm ,160 cm | 60 kg,Gluck,111,1434, 60 kg,Weight lifted: 187 lbs.,643f1ac9000864d490eac0f6
+,,,,,,,Kawi CrossFit,29,North America,United States,Jordan,66 in ,66 in | 140 lb,Adcock,112,1444, 140 lb,Weight lifted: 193 lbs.,643f1ac9000864d490eac0f7
+,,,,,,,CrossFit Project Bayside,29,Oceania,New Zealand,Aimee,163 cm ,163 cm | 66 kg,Tawhai,115,1475, 66 kg,Weight lifted: 189 lbs.,643f1ac9000864d490eac0f8
+,,,,,,,CrossFit Athletic Academy,29,North America,United States,Brittany,63 in ,63 in | 150 lb,Marella,116,1486, 150 lb,Weight lifted: 193 lbs.,643f1ac9000864d490eac0f9
+,,,,,,,CrossFit Training Yard,40,North America,United States,Rebecca,69 in ,69 in | 152 lb,Voigt Miller,120,1542, 152 lb,Weight lifted: 194 lbs.,643f1ac9000864d490eac0fa
+,,,,,,,CrossFit Mayflower,28,Europe,United Kingdom,Janie,158 cm ,158 cm | 63 kg,Garratt,122,1558, 63 kg,Weight lifted: 193 lbs.,643f1ac9000864d490eac0fb
+,,,,,,,CrossFit Train 97333,43,North America,United States,Joey,61 in ,61 in | 125 lb,Kimdon,126,1628, 125 lb,Weight lifted: 187 lbs.,643f1ac9000864d490eac0fc
+,,,,,,,Kingbull CrossFit,28,South America,Paraguay,Carol,157 cm ,157 cm | 57 kg,Colling,127,1633, 57 kg,Weight lifted: 195 lbs.,643f1ac9000864d490eac0fd
+,,,,,,,CrossFit Bolt,21,North America,United States,Rebecca,62 in ,62 in | 125 lb,Fuselier,133,1668, 125 lb,Weight lifted: 191 lbs.,643f1ac9000864d490eac0fe
+,,,,,,,CrossFit Crosscheck,38,North America,Canada,Meg,177 cm ,177 cm | 160 lb,Garrett,138,1707, 160 lb,Weight lifted: 225 lbs.,643f1ac9000864d490eac0ff
+,,,,,,,CrossFit Bergisch Gladbach,28,Europe,Germany,Lidia,168 cm ,168 cm | 63 kg,Bartoszewicz,144,1748, 63 kg,Weight lifted: 188 lbs.,643f1ac9000864d490eac100
+,,,,,,,CrossFit St-Jean,31,North America,Canada,Laurie,157 cm ,157 cm | 140 lb,Pfleiderer,150,1787, 140 lb,Weight lifted: 187 lbs.,643f1ac9000864d490eac101
+,,,,,,,CrossFit Papio,31,North America,United States,Katelyn,67 in ,67 in | 148 lb,Teager,153,1796, 148 lb,Weight lifted: 200 lbs.,643f1ac9000864d490eac102
+,,,,,,,CrossFit Melbourne,28,Oceania,New Zealand,Jaime,156 cm ,156 cm | 57 kg,Goodwin,153,1796, 57 kg,Weight lifted: 181 lbs.,643f1ac9000864d490eac103
+,,,,,,,CrossFit Fireside,26,North America,United States,Hannah,65 in ,65 in | 144 lb,Frakes,157,1835, 144 lb,Weight lifted: 195 lbs.,643f1ac9000864d490eac104
+,,,,,,,CrossFit Blade,29,North America,United States,Ashley,65 in ,65 in | 135 lb,Walden,158,1838, 135 lb,Weight lifted: 200 lbs.,643f1ac9000864d490eac105
+,,,,,,,CrossFit Mecca,27,Oceania,New Zealand,Amanda,30 cm ,30 cm | 4 kg,Mackay,161,1860, 4 kg,Weight lifted: 190 lbs.,643f1ac9000864d490eac106
+,,,,,,,CrossFit CM2,33,Europe,United Kingdom,Emelye,163 cm ,163 cm | 63 kg,Dwyer,166,1876, 63 kg,Weight lifted: 183 lbs.,643f1ac9000864d490eac107
+,,,,,,,CrossFit Clearwater,21,North America,United States,Lindsey,68 in ,68 in | 150 lb,Porter,171,1958, 150 lb,Weight lifted: 202 lbs.,643f1ac9000864d490eac108
+,,,,,,,CrossFit Broad Ripple,24,North America,United States,Becca,60 in ,60 in | 135 lb,Merritt,172,1962, 135 lb,Weight lifted: 192 lbs.,643f1ac9000864d490eac109
+,,,,,,,Frontline CrossFit,25,North America,United States,Majesta,64 in ,64 in | 140 lb,Valentine,174,1963, 140 lb,Weight lifted: 187 lbs.,643f1ac9000864d490eac10a
+,,,,,,,Grand Trunk CrossFit,30,North America,United States,Selina,67 in ,67 in | 153 lb,Paupert,175,1967, 153 lb,Weight lifted: 197 lbs.,643f1ac9000864d490eac10b
+,,,,,,,Crucible CrossFit,35,North America,United States,Colleen,62 in ,62 in | 135 lb,Lehane,179,2057, 135 lb,Weight lifted: 191 lbs.,643f1ac9000864d490eac10c
+,,,,,,,CrossFit Genas,32,Europe,France,Carole,170 cm ,170 cm | 70 kg,Castellani,180,2065, 70 kg,Weight lifted: 187 lbs.,643f1ac9000864d490eac10d
+,,,,,,,Cohort CrossFit,24,Oceania,Australia,Sophia,163 cm ,163 cm | 135 lb,Knowles,182,2091, 135 lb,Weight lifted: 195 lbs.,643f1ac9000864d490eac10e
+,,,,,,,CrossFit Fabriken,21,Europe,Sweden,Filippa,167 cm ,167 cm | 60 kg,Ferm,186,2109, 60 kg,Weight lifted: 179 lbs.,643f1ac9000864d490eac10f
+,,,,,,,CrossFit Initium,26,Europe,France,Manon,164 cm ,164 cm | 54 kg,Saint-Maxent,187,2114, 54 kg,Weight lifted: 179 lbs.,643f1ac9000864d490eac110
+,,,,,,,Three Kings CrossFit North,18,North America,United States,Lexi,62 in ,62 in | 135 lb,Neely,189,2124, 135 lb,Weight lifted: 187 lbs.,643f1ac9000864d490eac111
+,,,,,,,CrossFit Vero Beach,29,North America,United States,Mckenzie,65 in ,65 in | 145 lb,Flinchum,190,2137, 145 lb,Weight lifted: 192 lbs.,643f1ac9000864d490eac112
+,,,,,,,CrossFit i1uvit,29,North America,United States,Carrie,63 in ,63 in | 135 lb,Beamer,190,2137, 135 lb,Weight lifted: 178 lbs.,643f1ac9000864d490eac113
+,,,,,,,"CrossFit Butcher's Lab",30,Europe,Denmark,Frederikke,158 cm ,158 cm | 63 kg,Frandsen,198,2184, 63 kg,Weight lifted: 182 lbs.,643f1ac9000864d490eac114
+,,,,,,,Northstate CrossFit,23,North America,United States,Isabel,69 in ,69 in | 70 kg,Simonis,207,2259, 70 kg,Weight lifted: 183 lbs.,643f1ac9000864d490eac115
+,,,,,,,C23 CrossFit,24,Europe,Sweden,Erica,163 cm ,163 cm | 65 kg,Ekelund,213,2301, 65 kg,Weight lifted: 177 lbs.,643f1ac9000864d490eac116
+,,,,,,,CrossFit Hanuman,29,Europe,France,Sabrina,161 cm ,161 cm | 58 kg,Caron,215,2334, 58 kg,Weight lifted: 179 lbs.,643f1ac9000864d490eac117
+,,,,,,,CrossFit Fibonacci,29,Europe,Switzerland,Lea,162 cm ,162 cm | 59 kg,Schmidt,221,2408, 59 kg,Weight lifted: 177 lbs.,643f1ac9000864d490eac118
+,,,,,,,CrossFit Crosscheck,33,North America,Canada,Catrina,65 in ,65 in | 135 lb,Stranges,230,2467, 135 lb,Weight lifted: 205 lbs.,643f1ac9000864d490eac119
+,,,,,,,CrossFit Pilatus Sursee,29,Europe,Switzerland,Nicole,167 cm ,167 cm | 63 kg,Heer,232,2481, 63 kg,Weight lifted: 179 lbs.,643f1ac9000864d490eac11a
+,,,,,,,CrossFit Jackhammer,30,Europe,Germany,Lisa,160 cm ,160 cm | 145 lb,Eble,238,2524, 145 lb,Weight lifted: 187 lbs.,643f1ac9000864d490eac11b
+,,,,,,,CrossFit Distinction,24,North America,United States,Sarina,63 in ,63 in | 120 lb,Ruggiero,239,2546, 120 lb,Weight lifted: 177 lbs.,643f1ac9000864d490eac11c
+,,,,,,,Renewed Strength CrossFit,27,North America,United States,Arielle,63 in ,63 in | 139 lb,Loewen,243,2596, 139 lb,Weight lifted: 176 lbs.,643f1ac9000864d490eac11d
+,,,,,,,CrossFit Wavre,29,Europe,Belgium,Jennifer,158 cm ,158 cm | 58 kg,Brasseur,244,2601, 58 kg,Weight lifted: 177 lbs.,643f1ac9000864d490eac11e
+,,,,,,,CrossFit Tegen,37,Europe,Sweden,Louise,170 cm ,170 cm | 66 kg,Cederblad,251,2686, 66 kg,Weight lifted: 190 lbs.,643f1ac9000864d490eac11f
+,,,,,,,C2X CrossFit,31,North America,United States,Lauren,64 in ,64 in | 130 lb,Weeks,251,2686, 130 lb,Weight lifted: 182 lbs.,643f1ac9000864d490eac120
+,,,,,,,CrossFit Wynwood,26,South America,Peru,Claudia,60 in ,60 in | 130 lb,Reque,253,2693, 130 lb,Weight lifted: 180 lbs.,643f1ac9000864d490eac121
+,,,,,,,CrossFit South Wake,28,North America,United States,Shaylin,65 in ,65 in | 150 lb,Laure,257,2774, 150 lb,Weight lifted: 188 lbs.,643f1ac9000864d490eac122
+,,,,,,,Injustice CrossFit,33,Oceania,Australia,Carly,164 cm ,164 cm | 65 kg,Menzies,258,2783, 65 kg,Weight lifted: 178 lbs.,643f1ac9000864d490eac123
+,,,,,,,BackCountry CrossFit,22,North America,United States,Zoe,61 in ,61 in | 120 lb,Warren,260,2791, 120 lb,Weight lifted: 175 lbs.,643f1ac9000864d490eac124
+,,,,,,,CrossFit LifeTree,32,North America,Canada,Caileigh,63 in ,63 in | 135 lb,Mcdade,263,2818, 135 lb,Weight lifted: 177 lbs.,643f1ac9000864d490eac125
+,,,,,,,CrossFit Colosseum,30,North America,United States,Alexys,66 in ,66 in | 150 lb,"D'Tiole",263,2818, 150 lb,Weight lifted: 203 lbs.,643f1ac9000864d490eac126
+,,,,,,,CrossFit Raid,34,North America,United States,Andrea,61 in ,61 in | 143 lb,White,266,2844, 143 lb,Weight lifted: 192 lbs.,643f1ac9000864d490eac127
+,,,,,,,CrossFit Edison,20,North America,United States,Callista,64 in ,64 in | 135 lb,Lang,282,2958, 135 lb,Weight lifted: 177 lbs.,643f1ac9000864d490eac128
+,,,,,,,CrossFit Wanderlust,22,Europe,Germany,Lu,164 cm ,164 cm | 62 kg,Frey,297,3056, 62 kg,Weight lifted: 177 lbs.,643f1ac9000864d490eac129
+,,,,,,,CrossFit Ursynow,20,Europe,Poland,Julia,160 cm ,160 cm | 57 kg,Blazejowska,322,3286, 57 kg,Weight lifted: 171 lbs.,643f1ac9000864d490eac12a
+,,,,,,,CrossFit Invictus,26,North America,United States,Brittany,67 in ,67 in | 138 lb,Weiss,324,3296, 138 lb,Weight lifted: 178 lbs.,643f1ac9000864d490eac12b
+,,,,,,,Backstage CrossFit,25,Asia,Russian Federation,Alina,156 cm ,156 cm | 58 kg,Aleksandrova,326,3301, 58 kg,Weight lifted: 178 lbs.,643f1ac9000864d490eac12c
+,,,,,,,CrossFit Reignited ILM,22,North America,United States,Brynn,68 in ,68 in | 135 lb,Carrick,328,3313, 135 lb,Weight lifted: 177 lbs.,643f1ac9000864d490eac12d
+,,,,,,,CrossFit Kamuy,32,Asia,Japan,Akiko,154 cm ,154 cm | 52 kg,Kamitani,346,3426, 52 kg,Weight lifted: 172 lbs.,643f1ac9000864d490eac12e
+,,,,,,,CrossFit 129,30,Oceania,Australia,Laken,157 cm ,157 cm | 60 kg,Watt,351,3469, 60 kg,Weight lifted: 171 lbs.,643f1ac9000864d490eac12f
+,,,,,,,Driving Force CrossFit,21,South America,Venezuela,Laura,159 cm ,159 cm | 62 kg,Sanchez,358,3550, 62 kg,Weight lifted: 177 lbs.,643f1ac9000864d490eac130
+,,,,,,,CrossFit Albalonga,34,Europe,Romania,Oana Catalina,160 cm ,160 cm | 58 kg,Chelmus,363,3574, 58 kg,Weight lifted: 172 lbs.,643f1ac9000864d490eac131
+,,,,,,,CrossFit JXN,32,North America,United States,Hollye,64 in ,64 in | 138 lb,Henderson,366,3582, 138 lb,Weight lifted: 186 lbs.,643f1ac9000864d490eac132
+,,,,,,,Ballistic CrossFit,31,North America,United States,Chely,65 in ,65 in | 135 lb,Galvan,373,3612, 135 lb,Weight lifted: 190 lbs.,643f1ac9000864d490eac133
+,,,,,,,Yankee CrossFit,38,North America,United States,Katrina,62 in ,62 in | 135 lb,Laclair,385,3767, 135 lb,Weight lifted: 197 lbs.,643f1ac9000864d490eac134
+,,,,,,,CrossFit Currie Barracks,26,North America,Canada,Amy,61 in ,61 in | 135 lb,Kuchuk,390,3799, 135 lb,Weight lifted: 182 lbs.,643f1ac9000864d490eac135
+,,,,,,,CrossFit FYP,34,North America,Canada,Renee-Claude,160 cm ,160 cm | 130 lb,Rioux,395,3842, 130 lb,Weight lifted: 180 lbs.,643f1ac9000864d490eac136
+,,,,,,,CrossFit Omaha,28,North America,United States,Addison,64 in ,64 in | 147 lb,Desrosiers,408,3958, 147 lb,Weight lifted: 170 lbs.,643f1ac9000864d490eac137
+,,,,,,,"CrossFit Butcher's Lab",31,Europe,Denmark,Amanda Lindeberg,166 cm ,166 cm | 132 lb,Mathiasen,411,4023, 132 lb,Weight lifted: 168 lbs.,643f1ac9000864d490eac138
+,,,,,,,Alpine CrossFit,33,North America,United States,Megan,62 in ,62 in | 125 lb,Markee,415,4047, 125 lb,Weight lifted: 172 lbs.,643f1ac9000864d490eac139
+,,,,,,,CrossFit Kfar Saba,31,Asia,Israel,Or,157 cm ,157 cm | 60 kg,Cohen,418,4084, 60 kg,Weight lifted: 185 lbs.,643f1ac9000864d490eac13a
+,,,,,,,CrossFit Reaction,32,North America,United States,Amy,62 in ,62 in | 124 lb,Fryt,420,4099, 124 lb,Weight lifted: 172 lbs.,643f1ac9000864d490eac13b
+,,,,,,,InnerLimit CrossFit,25,Europe,Norway,Andrea,164 cm ,164 cm | 135 lb,Solberg,432,4150, 135 lb,Weight lifted: 165 lbs.,643f1ac9000864d490eac13c
+,,,,,,,Snake CrossFit,21,Oceania,Australia,Georgia,167 cm ,167 cm | 60 kg,Pryer,433,4155, 60 kg,Weight lifted: 170 lbs.,643f1ac9000864d490eac13d
+,,,,,,,SoGo CrossFit,33,North America,United States,Rachel,59 in ,59 in | 125 lb,Krumm,467,4542, 125 lb,Weight lifted: 185 lbs.,643f1ac9000864d490eac13e
+,,,,,,,CrossFit Happy Hearts,33,Europe,France,Alizee,153 cm ,153 cm | 51 kg,Andreani,471,4560, 51 kg,Weight lifted: 165 lbs.,643f1ac9000864d490eac13f
+,,,,,,,North Engine CrossFit,20,Europe,Finland,Iiris,166 cm ,166 cm | 60 kg,Rosenlof,477,4611, 60 kg,Weight lifted: 178 lbs.,643f1ac9000864d490eac140
+,,,,,,,Elite Coalition CrossFit,25,North America,United States,Ashley,66 in ,66 in | 140 lb,Jerue,478,4625, 140 lb,Weight lifted: 187 lbs.,643f1ac9000864d490eac141
+,,,,,,,CrossFit 548,41,Europe,Italy,Giulia,163 cm ,163 cm | 54 kg,Roggio,481,4644, 54 kg,Weight lifted: 165 lbs.,643f1ac9000864d490eac142
+,,,,,,,CrossFit Markham,30,North America,Canada,Julie,165 cm ,165 cm | 145 lb,Simon,489,4715, 145 lb,Weight lifted: 195 lbs.,643f1ac9000864d490eac143
+,,,,,,,Ben Lomond CrossFit,37,North America,United States,Sheena,61 in ,61 in | 118 lb,Hammer,490,4719, 118 lb,Weight lifted: 167 lbs.,643f1ac9000864d490eac144
+,,,,,,,CrossFit Rally Point Northbrook,31,North America,United States,Cody,62 in ,62 in | 130 lb,Ksioszk,509,4851, 130 lb,Weight lifted: 168 lbs.,643f1ac9000864d490eac145
+,,,,,,,Verdant CrossFit,27,North America,United States,Dani,68 in ,68 in | 155 lb,Mosbrucker,512,4864, 155 lb,Weight lifted: 178 lbs.,643f1ac9000864d490eac146
+,,,,,,,CrossFit Novato,34,North America,United States,Kristel,60 in ,60 in | 130 lb,Raab,522,4924, 130 lb,Weight lifted: 175 lbs.,643f1ac9000864d490eac147
+,,,,,,,CrossFit NorWest,30,Oceania,Australia,Amy,154 cm ,154 cm | 130 lb,Alessi,527,4947, 130 lb,Weight lifted: 169 lbs.,643f1ac9000864d490eac148
+,,,,,,,The Claw CrossFit,23,North America,United States,Victoria,60 in ,60 in | 132 lb,Hernandez,536,4993, 132 lb,Weight lifted: 170 lbs.,643f1ac9000864d490eac149
+,,,,,,,CrossFit Summa,28,North America,United States,Melissa,69 in ,69 in | 173 lb,Herman,545,5064, 173 lb,Weight lifted: 176 lbs.,643f1ac9000864d490eac14a
+,,,,,,,CrossFit Electron,40,North America,United States,Erin,167 cm ,167 cm | 60 kg,Sims,546,5075, 60 kg,Weight lifted: 168 lbs.,643f1ac9000864d490eac14b
+,,,,,,,Morpho CrossFit,37,North America,Costa Rica,Marisol,152 cm ,152 cm | 57 kg,Umana,568,5273, 57 kg,Weight lifted: 165 lbs.,643f1ac9000864d490eac14c
+,,,,,,,"CrossFit Butcher's Lab",30,Europe,Denmark,Christina,161 cm ,161 cm | 136 lb,Agerbeck,569,5284, 136 lb,Weight lifted: 169 lbs.,643f1ac9000864d490eac14d
+,,,,,,,Jump Ship CrossFit,28,North America,United States,Tylinn,64 in ,64 in | 150 lb,Rashan,572,5293, 150 lb,Weight lifted: 177 lbs.,643f1ac9000864d490eac14e
+,,,,,,,CrossFit Grandview,24,North America,United States,Ally,61 in ,61 in | 131 lb,Duckworth,580,5338, 131 lb,Weight lifted: 165 lbs.,643f1ac9000864d490eac14f
+,,,,,,,CrossFit SEO,37,North America,United States,Jolene,60 in ,60 in | 125 lb,Quirke,592,5428, 125 lb,Weight lifted: 170 lbs.,643f1ac9000864d490eac150
+,,,,,,,CrossFit Laminin,23,North America,United States,Ellie,61 in ,61 in | 128 lb,Tarence Hiller,596,5468, 128 lb,Weight lifted: 162 lbs.,643f1ac9000864d490eac151
+,,,,,,,CrossFit Dux,26,Oceania,Australia,Courtney,165 cm ,165 cm | 69 kg,Haley,598,5476, 69 kg,Weight lifted: 166 lbs.,643f1ac9000864d490eac152
+,,,,,,,CrossFit North Haven,26,North America,United States,Jessica,61 in ,61 in | 122 lb,Seaver,601,5511, 122 lb,Weight lifted: 165 lbs.,643f1ac9000864d490eac153
+,,,,,,,CrossFit Complete,23,North America,United States,Allanah,62 in ,62 in | 135 lb,Rainbolt,610,5556, 135 lb,Weight lifted: 185 lbs.,643f1ac9000864d490eac154
+,,,,,,,CrossFit Rotherham,24,Europe,United Kingdom,Georgia,171 cm ,171 cm | 70 kg,Davenport,616,5597, 70 kg,Weight lifted: 165 lbs.,643f1ac9000864d490eac155
+,,,,,,,CrossFit Ask,30,Europe,Norway,Iselin,163 cm ,163 cm | 62 kg,Brogeland,622,5648, 62 kg,Weight lifted: 168 lbs.,643f1ac9000864d490eac156
+,,,,,,,CrossFit Maven,16,North America,United States,Jadzia,65 in ,65 in | 140 lb,Onorati-Phillips,646,5787, 140 lb,Weight lifted: 191 lbs.,643f1ac9000864d490eac157
+,,,,,,,Koda CrossFit Native,30,North America,United States,Natalie,61 in ,61 in | 127 lb,Pulgini,652,5816, 127 lb,Weight lifted: 173 lbs.,643f1ac9000864d490eac158
+,,,,,,,CrossFit Saint Helens,37,North America,United States,Carleen,62 in ,62 in | 137 lb,Mathews,656,5843, 137 lb,Weight lifted: 162 lbs.,643f1ac9000864d490eac159
+,,,,,,,Three Kings CrossFit,33,North America,United States,Kristin,64 in ,64 in | 135 lb,Miller,657,5853, 135 lb,Weight lifted: 163 lbs.,643f1ac9000864d490eac15a
+,,,,,,,NewCov CrossFit,26,North America,United States,Morgan,61 in ,61 in | 130 lb,Kain,680,6110, 130 lb,Weight lifted: 177 lbs.,643f1ac9000864d490eac15b
+,,,,,,,CrossFit Rappahannock,27,North America,United States,Saige,60 in ,60 in | 135 lb,Smith,681,6122, 135 lb,Weight lifted: 167 lbs.,643f1ac9000864d490eac15c
+,,,,,,,CrossFit Grandview,24,North America,United States,Miriam,60 in ,60 in | 135 lb,Hazlett,700,6304, 135 lb,Weight lifted: 168 lbs.,643f1ac9000864d490eac15d
+,,,,,,,Tallinn CrossFit,25,Europe,Estonia,Andra,165 cm ,165 cm | 59 kg,Moistus,714,6405, 59 kg,Weight lifted: 162 lbs.,643f1ac9000864d490eac15e
+,,,,,,,Backstage CrossFit,32,Asia,Russian Federation,Nataly,161 cm ,161 cm | 67 kg,Egorova,740,6577, 67 kg,Weight lifted: 163 lbs.,643f1ac9000864d490eac15f
+,,,,,,,Strength United CrossFit,33,North America,United States,Robyn,61 in ,61 in | 125 lb,Hess,744,6631, 125 lb,Weight lifted: 176 lbs.,643f1ac9000864d490eac160
+,,,,,,,TTT CrossFit,32,North America,United States,Kasandra,61 in ,61 in | 135 lb,Clark,767,6781, 135 lb,Weight lifted: 182 lbs.,643f1ac9000864d490eac161
+,,,,,,,Plus64 CrossFit,20,Oceania,New Zealand,Pieta,165 cm ,165 cm | 57 kg,Hansen,771,6819, 57 kg,Weight lifted: 179 lbs.,643f1ac9000864d490eac162
+,,,,,,,CrossFit Movida,23,Oceania,Australia,Isabella,164 cm ,164 cm | 65 kg,Vallejo,772,6823, 65 kg,Weight lifted: 157 lbs.,643f1ac9000864d490eac163
+,,,,,,,Morpho CrossFit,28,North America,Costa Rica,Mariangela,157 cm ,157 cm | 56 kg,Cordero,775,6836, 56 kg,Weight lifted: 162 lbs.,643f1ac9000864d490eac164
+,,,,,,,CrossFit East Nashville,30,North America,United States,Jade,65 in ,65 in | 140 lb,Bensink,779,6892, 140 lb,Weight lifted: 165 lbs.,643f1ac9000864d490eac165
+,,,,,,,CrossFit Gårda,22,Europe,Sweden,Olivia,163 cm ,163 cm | 58 kg,Renmark,791,6967, 58 kg,Weight lifted: 162 lbs.,643f1ac9000864d490eac166
+,,,,,,,CrossFit Wanderlust,29,North America,Canada,Hattie,64 in ,64 in | 145 lb,Kanyo,797,7006, 145 lb,Weight lifted: 170 lbs.,643f1ac9000864d490eac167
+,,,,,,,CrossFit Quispamsis,39,North America,Canada,Colleen,66 in ,66 in | 140 lb,Mcquaid,805,7080, 140 lb,Weight lifted: 165 lbs.,643f1ac9000864d490eac168
+,,,,,,,CrossFit Attila,36,North America,United States,Lindsey,63 in ,63 in | 131 lb,Donner,808,7099, 131 lb,Weight lifted: 167 lbs.,643f1ac9000864d490eac169
+,,,,,,,CrossFit Mayhem,25,North America,United States,Jenay,64 in ,64 in | 125 lb,Decaussin,815,7134, 125 lb,Weight lifted: 157 lbs.,643f1ac9000864d490eac16a
+,,,,,,,Timberwolf CrossFit,31,North America,United States,Jessica,64 in ,64 in | 135 lb,Lundeen,835,7232, 135 lb,Weight lifted: 160 lbs.,643f1ac9000864d490eac16b
+,,,,,,,CrossFit Invictus Everest Park,35,North America,United States,Casey,64 in ,64 in | 145 lb,Campbell,858,7392, 145 lb,Weight lifted: 177 lbs.,643f1ac9000864d490eac16c
+,,,,,,,Shotgun CrossFit,37,North America,United States,Julie,66 in ,66 in | 135 lb,Vanhoy,860,7396, 135 lb,Weight lifted: 160 lbs.,643f1ac9000864d490eac16d
+,,,,,,,CrossFit Herne,26,Europe,Germany,Nina,166 cm ,166 cm | 61 kg,Kuepers,887,7572, 61 kg,Weight lifted: 162 lbs.,643f1ac9000864d490eac16e
+,,,,,,,CrossFit Dwala,34,North America,United States,Katie,67 in ,67 in | 145 lb,Casey,914,7740, 145 lb,Weight lifted: 158 lbs.,643f1ac9000864d490eac16f
+,,,,,,,Mutiny CrossFit,27,North America,United States,Sofi,67 in ,67 in | 135 lb,Prorok,929,7865, 135 lb,Weight lifted: 186 lbs.,643f1ac9000864d490eac170
+,,,,,,,CrossFit Destiny,23,Europe,Czech Republic,Veronika,164 cm ,164 cm | 58 kg,Handlova,932,7891, 58 kg,Weight lifted: 163 lbs.,643f1ac9000864d490eac171
+,,,,,,,CrossFit Elk Grove,18,North America,United States,Lilly,58 in ,58 in | 118 lb,Rodriguez,974,8162, 118 lb,Weight lifted: 157 lbs.,643f1ac9000864d490eac172
+,,,,,,,CrossFit Anywhere,30,North America,United States,Emilie,61 in ,61 in | 123 lb,Schneider,977,8183, 123 lb,Weight lifted: 170 lbs.,643f1ac9000864d490eac173
+,,,,,,,CrossFit Split,33,Europe,Croatia,Tina,162 cm ,162 cm | 118 lb,Erceg,1003,8329, 118 lb,Weight lifted: 157 lbs.,643f1ac9000864d490eac174
+,,,,,,,Peak 360 CrossFit,21,North America,United States,Bri,64 in ,64 in | 140 lb,Kource,1037,8525, 140 lb,Weight lifted: 162 lbs.,643f1ac9000864d490eac175
+,,,,,,,Moovbox CrossFit,18,South America,Brazil,Bia,162 cm ,162 cm | 63 kg,Clemente,1038,8534, 63 kg,Weight lifted: 179 lbs.,643f1ac9000864d490eac176
+,,,,,,,CrossFit 5885,39,North America,United States,Alana,64 in ,64 in | 125 lb,Jensen,1070,8714, 125 lb,Weight lifted: 155 lbs.,643f1ac9000864d490eac177
+,,,,,,,CrossFit Unus Plus,16,North America,United States,Nadia,60 in ,60 in | 105 lb,Szymialis,1109,8988, 105 lb,Weight lifted: 157 lbs.,643f1ac9000864d490eac178
+,,,,,,,Lone Star CrossFit,33,North America,United States,Kristen,67 in ,67 in | 130 lb,Contreras,1113,9003, 130 lb,Weight lifted: 158 lbs.,643f1ac9000864d490eac179
+,,,,,,,Iron Talon CrossFit,34,North America,United States,Abigail,61 in ,61 in | 130 lb,Wilkins,1154,9274, 130 lb,Weight lifted: 162 lbs.,643f1ac9000864d490eac17a
+,,,,,,,CrossFit FYP,22,North America,Canada,Tori,65 in ,65 in | 140 lb,Fiissel,1174,9344, 140 lb,Weight lifted: 170 lbs.,643f1ac9000864d490eac17b
+,,,,,,,CrossFit Nixa,22,North America,United States,Sydney,66 in ,66 in | 148 lb,Marciniak,1202,9525, 148 lb,Weight lifted: 165 lbs.,643f1ac9000864d490eac17c
+,,,,,,,BST CrossFit,38,Africa,South Africa,Chantelle,162 cm ,162 cm | 61 kg,Burger,1206,9544, 61 kg,Weight lifted: 160 lbs.,643f1ac9000864d490eac17d
+,,,,,,,CrossFit Athletic,33,Europe,Sweden,Hanna,162 cm ,162 cm | 140 lb,Porseland,1214,9566, 140 lb,Weight lifted: 163 lbs.,643f1ac9000864d490eac17e
+,,,,,,,Deka CrossFit,36,North America,Canada,Marie-Eve,152 cm ,152 cm | 123 lb,Gagnon,1232,9677, 123 lb,Weight lifted: 155 lbs.,643f1ac9000864d490eac17f
+,,,,,,,Steel Coast CrossFit,42,Europe,United Kingdom,Vicki,162 cm ,162 cm | 64 kg,Webber,1267,9901, 64 kg,Weight lifted: 161 lbs.,643f1ac9000864d490eac180
+,,,,,,,CrossFit Redyar,23,Asia,Russian Federation,Albina,158 cm ,158 cm | 60 kg,Badeeva,1271,9912, 60 kg,Weight lifted: 157 lbs.,643f1ac9000864d490eac181
+,,,,,,,12th State CrossFit,19,North America,United States,Madalyn,66 in ,66 in | 135 lb,Hannan,1274,9941, 135 lb,Weight lifted: 155 lbs.,643f1ac9000864d490eac182
+,,,,,,,CrossFit Soul Miami,32,North America,Guatemala,Vera,162 cm ,162 cm | 130 lb,Valdez,1309,10147, 130 lb,Weight lifted: 160 lbs.,643f1ac9000864d490eac183
+,,,,,,,CrossFit Sport,26,Europe,Iceland,Sandra Hronn,164 cm ,164 cm | 134 lb,Arnardottir,1441,11056, 134 lb,Weight lifted: 168 lbs.,643f1ac9000864d490eac184
+,,,,,,,CrossFit Worksop,35,Europe,United Kingdom,Llara,157 cm ,157 cm | 55 kg,Munn,1500,11509, 55 kg,Weight lifted: 151 lbs.,643f1ac9000864d490eac185
+,,,,,,,CrossFit Langley,35,North America,Canada,Aimee,60 in ,60 in | 119 lb,Wiebe,1604,12078, 119 lb,Weight lifted: 152 lbs.,643f1ac9000864d490eac186
+,,,,,,,CrossFit KTG,22,Asia,"Korea, Republic of",Seung-A,157 cm ,157 cm | 57 kg,Woo,1620,12142, 57 kg,Weight lifted: 150 lbs.,643f1ac9000864d490eac187
+,,,,,,,Calibrated CrossFit,33,North America,United States,Brittany,65 in ,65 in | 138 lb,Smith,1634,12232, 138 lb,Weight lifted: 175 lbs.,643f1ac9000864d490eac188
+,,,,,,,CrossFit Laval,39,North America,Canada,Julie,59 in ,59 in | 112 lb,Nadeau,1684,12504, 112 lb,Weight lifted: 150 lbs.,643f1ac9000864d490eac189
+,,,,,,,CrossFit Belforest,26,North America,United States,Geena,63 in ,63 in | 114 lb,Pitts,1696,12546, 114 lb,Weight lifted: 145 lbs.,643f1ac9000864d490eac18a
+,,,,,,,CrossFit Reykjavík,34,Europe,Iceland,Birna Blöndal,161 cm ,161 cm | 125 lb,Sveinsdóttir,1717,12647, 125 lb,Weight lifted: 154 lbs.,643f1ac9000864d490eac18b
+,,,,,,,CrossFit Lakeville,31,North America,United States,Anna,61 in ,61 in | 125 lb,Christensen,1722,12665, 125 lb,Weight lifted: 148 lbs.,643f1ac9000864d490eac18c
+,,,,,,,CrossFit Lethal,25,North America,United States,Sydney,63 in ,63 in | 135 lb,Waltz,1739,12724, 135 lb,Weight lifted: 165 lbs.,643f1ac9000864d490eac18d
+,,,,,,,CrossFit Cloud City,27,North America,United States,Bianca,60 in ,60 in | 106 lb,Savarese,1742,12739, 106 lb,Weight lifted: 145 lbs.,643f1ac9000864d490eac18e
+,,,,,,,CrossFit AZO,22,North America,United States,Christa,66 in ,66 in | 123 lb,Mack,1766,12852, 123 lb,Weight lifted: 152 lbs.,643f1ac9000864d490eac18f
+,,,,,,,CrossFit Roots,36,North America,United States,Jessica,60 in ,60 in | 126 lb,Borth,1769,12856, 126 lb,Weight lifted: 152 lbs.,643f1ac9000864d490eac190
+,,,,,,,Mighty Warrior CrossFit,23,North America,United States,Peyton,62 in ,62 in | 110 lb,Lankford,1801,13035, 110 lb,Weight lifted: 155 lbs.,643f1ac9000864d490eac191
+,,,,,,,Gold Standard Athletics CrossFit,29,North America,United States,Caitlin,66 in ,66 in | 150 lb,Daily,1847,13308, 150 lb,Weight lifted: 157 lbs.,643f1ac9000864d490eac192
+,,,,,,,CrossFit Kent Island,40,North America,United States,Alyssa,62 in ,62 in | 126 lb,Stookey,1858,13393, 126 lb,Weight lifted: 156 lbs.,643f1ac9000864d490eac193
+,,,,,,,Gold Standard Athletics CrossFit,25,North America,United States,Colette,64 in ,64 in | 130 lb,Bolowich,1889,13591, 130 lb,Weight lifted: 157 lbs.,643f1ac9000864d490eac194
+,,,,,,,CrossFit Manapany,26,Europe,France,Le Fur,155 cm ,155 cm | 55 kg,Maëlle,1955,13992, 55 kg,Weight lifted: 145 lbs.,643f1ac9000864d490eac195
+,,,,,,,CrossFit Dignus,33,Oceania,Australia,Corri,162 cm ,162 cm | 53 kg,Keating,1978,14127, 53 kg,Weight lifted: 149 lbs.,643f1ac9000864d490eac196
+,,,,,,,CrossFit Rally Point Northbrook,49,North America,United States,Julie,63 in ,63 in | 124 lb,Ackermann,2024,14404, 124 lb,Weight lifted: 147 lbs.,643f1ac9000864d490eac197
+,,,,,,,Cue CrossFit,29,North America,United States,Olivia,65 in ,65 in | 126 lb,Tannehill,2029,14424, 126 lb,Weight lifted: 147 lbs.,643f1ac9000864d490eac198
+,,,,,,,CrossFit Tustin,35,North America,United States,Cassie,60 in ,60 in | 121 lb,Carroll,2038,14455, 121 lb,Weight lifted: 162 lbs.,643f1ac9000864d490eac199
+,,,,,,,CrossFit Weddington,47,North America,United States,Pamela,63 in ,63 in | 120 lb,Gagnon,2167,15192, 120 lb,Weight lifted: 152 lbs.,643f1ac9000864d490eac19a
+,,,,,,,8th Day CrossFit,23,North America,United States,Cassidy,165 cm ,165 cm | 130 lb,Bacon,2298,15922, 130 lb,Weight lifted: 145 lbs.,643f1ac9000864d490eac19b
+,,,,,,,CrossFit Exit 8,27,Europe,Belgium,Nica,166 cm ,166 cm | 60 kg,Antonis,2304,15970, 60 kg,Weight lifted: 143 lbs.,643f1ac9000864d490eac19c
+,,,,,,,CrossFit Punt Uit,34,Europe,Netherlands,Brenda,166 cm ,166 cm | 65 kg,Van Zaanen-Koolhaas,2397,16486, 65 kg,Weight lifted: 144 lbs.,643f1ac9000864d490eac19d
+,,,,,,,Snake CrossFit,21,Oceania,Australia,Caitlin,163 cm ,163 cm | 60 kg,Ham,2459,16859, 60 kg,Weight lifted: 144 lbs.,643f1ac9000864d490eac19e
+,,,,,,,CrossFit Dauntless,23,Oceania,Australia,Eliza,149 cm ,149 cm | 53 kg,Sabaliauskas,2572,17443, 53 kg,Weight lifted: 144 lbs.,643f1ac9000864d490eac19f
+,,,,,,,"L'arène CrossFit Nakama",29,Europe,France,Adeline,156 cm ,156 cm | 55 kg,Pourre,2704,18134, 55 kg,Weight lifted: 143 lbs.,643f1ac9000864d490eac1a0
+,,,,,,,CrossFit Nashville,28,North America,United States,Cristina,59 in ,59 in | 125 lb,Jacobson,3080,20078, 125 lb,Weight lifted: 142 lbs.,643f1ac9000864d490eac1a1
+,,,,,,,Eislingen CrossFit,23,Europe,Germany,Gina,152 cm ,152 cm | 48 kg,Abele,3125,20332, 48 kg,Weight lifted: 143 lbs.,643f1ac9000864d490eac1a2
+,,,,,,,CrossFit Tigers Den,26,North America,United States,Casey,61 in ,61 in | 120 lb,Sands,3280,21129, 120 lb,Weight lifted: 135 lbs.,643f1ac9000864d490eac1a3
+,,,,,,,Kronan CrossFit,26,Europe,Sweden,Terese,163 cm ,163 cm | 51 kg,Dimblad Gonzalez,4053,25156, 51 kg,Weight lifted: 133 lbs.,643f1ac9000864d490eac1a4
+,,,,,,,CrossFit Southie,29,North America,United States,Carly,61 in ,61 in | 123 lb,Stote,4418,26931, 123 lb,Weight lifted: 125 lbs.,643f1ac9000864d490eac1a5
+,,,,,,,CrossFit 31400,32,Europe,France,Marion,157 cm ,157 cm | 110 lb,Gros,4732,28408, 110 lb,Weight lifted: 132 lbs.,643f1ac9000864d490eac1a6
+,,,,,,,Diablo CrossFit,30,North America,United States,Jillian,64 in ,64 in | 120 lb,Robards,5370,31431, 120 lb,Weight lifted: 125 lbs.,643f1ac9000864d490eac1a7
+,,,,,,,CrossFit DBS 83,19,Europe,France,Lou,160 cm ,160 cm | 68 kg,Cossutta,42680,177581, 68 kg,Weight lifted: 155 lbs.,643f1ac9000864d490eac1a8
+,,,,,,,CrossFit Tweak,43,Oceania,Australia,Marisa,159 cm ,159 cm | 57 kg,Girgenti,42890,178311, 57 kg,Weight lifted: 111 lbs.,643f1ac9000864d490eac1a9
+,,,,,,,Stud CrossFit,24,Asia,China,Jingwen,172 cm ,172 cm | 60 kg,Fan,43471,180475, 60 kg,Weight lifted: 115 lbs.,643f1ac9000864d490eac1aa
+,,,,,,,Black Mountain CrossFit,32,Africa,South Africa,Tib,161 cm ,161 cm | 70 kg,Jullies,45409,187875, 70 kg,Weight lifted: 110 lbs.,643f1ac9000864d490eac1ab
+,,,,,,,CrossFit eXalted,31,North America,United States,Coral,163 cm ,163 cm | 150 lb,Bryan,45423,187913, 150 lb,Weight lifted: 115 lbs.,643f1ac9000864d490eac1ac
+,,,,,,,CrossFit 235,21,North America,United States,Miranda,62 in ,62 in | 115 lb,Stuber,46252,191199, 115 lb,Weight lifted: 115 lbs.,643f1ac9000864d490eac1ad
+,,,,,,,CrossFit Indulto,30,North America,United States,Katlyn,68 in ,68 in | 175 lb,Liley,46410,191799, 175 lb,Weight lifted: 105 lbs.,643f1ac9000864d490eac1ae
+,,,,,,,Kaizen CrossFit,39,North America,United States,Malaika,168 cm ,168 cm | 133 lb,Buytaert,46872,193625, 133 lb,Weight lifted: 115 lbs.,643f1ac9000864d490eac1af
+,,,,,,,CrossFit Recklinghausen,36,Europe,Germany,Jennifer,172 cm ,172 cm | 61 kg,Petermann,47212,194843, 61 kg,Weight lifted: 88 lbs.,643f1ac9000864d490eac1b0
+,,,,,,,CrossFit Mohawk Valley,39,North America,United States,Katie,65 in ,65 in | 134 lb,Cannistra,47481,195758, 134 lb,Weight lifted: 115 lbs.,643f1ac9000864d490eac1b1
+,,,,,,,CrossFit Fernandina Beach,29,North America,United States,Alyssa,66 in ,66 in | 154 lb,Roddenberry,50061,205994, 154 lb,Weight lifted: 125 lbs.,643f1ac9000864d490eac1b2
+,,,,,,,CrossFit DBS 83,25,Europe,France,Alice,169 in ,169 in | 67 kg,Hugny,50693,208477, 67 kg,Weight lifted: 99 lbs.,643f1ac9000864d490eac1b3
+,,,,,,,CrossFit Perugia,42,Europe,Italy,Sara,161 cm ,161 cm | 46 kg,Minelli,52352,215348, 46 kg,Weight lifted: 88 lbs.,643f1ac9000864d490eac1b4
+,,,,,,,CrossFit Aggieland,31,North America,United States,Aly,68 in ,68 in | 150 lb,Kastner,54907,227043, 150 lb,Weight lifted: 160 lbs.,643f1ac9000864d490eac1b5
+,,,,,,,CrossFit Phos,35,North America,United States,Ayla,63 in ,63 in | 149 lb,Archer,54983,227399, 149 lb,Weight lifted: 135 lbs.,643f1ac9000864d490eac1b6
+,,,,,,,CrossFit Garrotxa,27,Europe,Spain,Sandra,150 cm ,150 cm | 58 kg,Dorca Moreno,55038,227658, 58 kg,Weight lifted: 132 lbs.,643f1ac9000864d490eac1b7
+,,,,,,,CrossFit Pantheon,36,Europe,Austria,Melanie,168 cm ,168 cm | 65 kg,Fraunschiel,55149,228142, 65 kg,Weight lifted: 125 lbs.,643f1ac9000864d490eac1b8
+,,,,,,,CrossFit Athletic,35,Oceania,Australia,Katrin,176 cm ,176 cm | 82 kg,Herzog,55160,228175, 82 kg,Weight lifted: 143 lbs.,643f1ac9000864d490eac1b9
+,,,,,,,CrossFit Kainos,23,North America,United States,Kelsey,62 in ,62 in | 124 lb,Booth,55182,228286, 124 lb,Weight lifted: 130 lbs.,643f1ac9000864d490eac1ba
+,,,,,,,RD CrossFit,27,North America,El Salvador,Ev,61 in ,61 in | 120 lb,Rodas,55461,229425, 120 lb,Weight lifted: 123 lbs.,643f1ac9000864d490eac1bb
+,,,,,,,CrossFit Cobalt,25,North America,United States,Shannon,63 in ,63 in | 147 lb,Cellan,55537,229719, 147 lb,Weight lifted: 130 lbs.,643f1ac9000864d490eac1bc
+,,,,,,,CrossFit Swashbuckle,39,North America,United States,Amber,63 in ,63 in | 127 lb,Trujillo,55576,229919, 127 lb,Weight lifted: 135 lbs.,643f1ac9000864d490eac1bd
+,,,,,,,NorSub CrossFit,26,Africa,South Africa,Abbi,165 cm ,165 cm | 67 kg,Mcduling,55582,229943, 67 kg,Weight lifted: 116 lbs.,643f1ac9000864d490eac1be
+,,,,,,,Oil City CrossFit,37,North America,United States,Rachel,67 in ,67 in | 135 lb,Warner,55672,230267, 135 lb,Weight lifted: 115 lbs.,643f1ac9000864d490eac1bf
+,,,,,,,Higher Life CrossFit,36,Africa,South Africa,Anita,170 cm ,170 cm | 68 kg,Kaumpek,55686,230334, 68 kg,Weight lifted: 143 lbs.,643f1ac9000864d490eac1c0
+,,,,,,,Koda CrossFit Native,23,North America,United States,Stevie,64 in ,64 in | 124 lb,Josey,55739,230518, 124 lb,Weight lifted: 117 lbs.,643f1ac9000864d490eac1c1
+,,,,,,,Burning River CrossFit,51,North America,United States,Gretchen,65 in ,65 in | 132 lb,Micklitsch,55752,230559, 132 lb,Weight lifted: 120 lbs.,643f1ac9000864d490eac1c2
+,,,,,,,The Fit Stop CrossFit,30,North America,United States,Neda,61 in ,61 in | 131 lb,Diaz,55831,230900, 131 lb,Weight lifted: 125 lbs.,643f1ac9000864d490eac1c3
+,,,,,,,CrossFit Phos West,40,North America,United States,Sarah,63 in ,63 in | 135 lb,Wilde,55846,230953, 135 lb,Weight lifted: 135 lbs.,643f1ac9000864d490eac1c4
+,,,,,,,CrossFit Bison,49,North America,United States,Jodie,60 in ,60 in | 114 lb,Hein,55849,230967, 114 lb,Weight lifted: 115 lbs.,643f1ac9000864d490eac1c5
+,,,,,,,CrossFit Liège,35,Europe,Belgium,Lilly,170 cm ,170 cm | 70 lb,Raskinet,55937,231386, 70 lb,Weight lifted: 133 lbs.,643f1ac9000864d490eac1c6
+,,,,,,,Kronan CrossFit,41,Europe,Sweden,Jessica,169 cm ,169 cm | 61 kg,Andersson Wright,55989,231598, 61 kg,Weight lifted: 116 lbs.,643f1ac9000864d490eac1c7
+,,,,,,,CrossFit Leo,33,Africa,South Africa,Magda,177 cm ,177 cm | 78 kg,Coertze,55997,231627, 78 kg,Weight lifted: 135 lbs.,643f1ac9000864d490eac1c8
+,,,,,,,CrossFit Longview,35,North America,United States,Kristen,66 in ,66 in | 128 lb,Henton,56031,231748, 128 lb,Weight lifted: 125 lbs.,643f1ac9000864d490eac1c9
+,,,,,,,Tusk CrossFit,41,North America,United States,Alicia,66 in ,66 in | 166 lb,Magera,56048,231811, 166 lb,Weight lifted: 140 lbs.,643f1ac9000864d490eac1ca
+,,,,,,,CrossFit Barbell Battalion,46,North America,United States,Becky,65 in ,65 in | 133 lb,Harkins,56055,231844, 133 lb,Weight lifted: 125 lbs.,643f1ac9000864d490eac1cb
+,,,,,,,CrossFit Conjugate,33,North America,United States,Jannelle,60 in ,60 in | 123 lb,Bookout,56062,231880, 123 lb,Weight lifted: 145 lbs.,643f1ac9000864d490eac1cc
+,,,,,,,CrossFit Nook,43,Oceania,Australia,Belinda,168 cm ,168 cm | 66 kg,Kruger,56082,231959, 66 kg,Weight lifted: 127 lbs.,643f1ac9000864d490eac1cd
+,,,,,,,DeNovo CrossFit,48,North America,United States,Shauna,61 in ,61 in | 119 lb,Sledge,56088,231972, 119 lb,Weight lifted: 110 lbs.,643f1ac9000864d490eac1ce
+,,,,,,,CrossFit FCFM,37,Oceania,New Zealand,Leah,165 in ,165 in | 62 kg,Sooipu,56091,231976, 62 kg,Weight lifted: 122 lbs.,643f1ac9000864d490eac1cf
+,,,,,,,CrossFit Biarritz,23,Europe,France,Celia,164 cm ,164 cm | 61 kg,Sans,56137,232146, 61 kg,Weight lifted: 133 lbs.,643f1ac9000864d490eac1d0
+,,,,,,,CrossFit Debrecen,30,Europe,Hungary,Fanni,163 cm ,163 cm | 62 kg,Kiss,56181,232315, 62 kg,Weight lifted: 110 lbs.,643f1ac9000864d490eac1d1
+,,,,,,,Bionic CrossFit,48,North America,United States,Marci,63 in ,63 in | 122 lb,Kantor,56211,232429, 122 lb,Weight lifted: 115 lbs.,643f1ac9000864d490eac1d2
+,,,,,,,CrossFit Cobalt,31,North America,United States,Emily,60 in ,60 in | 110 lb,Fitzgibbon,56224,232484, 110 lb,Weight lifted: 110 lbs.,643f1ac9000864d490eac1d3
+,,,,,,,CrossFit Urban Edge,31,Asia,Singapore,Wan,163 cm ,163 cm | 57 kg,Xin,56291,232760, 57 kg,Weight lifted: 131 lbs.,643f1ac9000864d490eac1d4
+,,,,,,,Koda CrossFit Native,40,North America,United States,Missy,68 in ,68 in | 150 lb,Abner,56417,233208, 150 lb,Weight lifted: 110 lbs.,643f1ac9000864d490eac1d5
+,,,,,,,CrossFit MOS,28,Europe,Italy,Shalini,162 cm ,162 cm | 54 kg,Moderage,56425,233228, 54 kg,Weight lifted: 121 lbs.,643f1ac9000864d490eac1d6
+,,,,,,,CrossFit Criciuma,41,South America,Brazil,Andrea,165 cm ,165 cm | 56 kg,Franke,56426,233231, 56 kg,Weight lifted: 126 lbs.,643f1ac9000864d490eac1d7
+,,,,,,,CrossFit Knoxville,34,North America,United States,Wendy,64 in ,64 in | 150 lb,Peery,56430,233243, 150 lb,Weight lifted: 145 lbs.,643f1ac9000864d490eac1d8
+,,,,,,,CrossFit Real Strength,30,Europe,Sweden,Julia,169 cm ,169 cm | 53 kg,Johannesson,56507,233578, 53 kg,Weight lifted: 106 lbs.,643f1ac9000864d490eac1d9
+,,,,,,,CrossFit Nemesis,29,Europe,France,Sarah,168 cm ,168 cm | 63 kg,Paris,56521,233638, 63 kg,Weight lifted: 110 lbs.,643f1ac9000864d490eac1da
+,,,,,,,CrossFit Confederation,45,North America,United States,Angele,61 in ,61 in | 131 lb,Bruun,56543,233749, 131 lb,Weight lifted: 111 lbs.,643f1ac9000864d490eac1db
+,,,,,,,CrossFit MiLory,33,Europe,Switzerland,Tamara Alicia,163 cm ,163 cm | 58 kg,Tschantre,56553,233780, 58 kg,Weight lifted: 105 lbs.,643f1ac9000864d490eac1dc
+,,,,,,,CrossFit Galatea,31,Europe,Spain,Olga,162 cm ,162 cm | 59 kg,Morente Iglesias,56590,233928, 59 kg,Weight lifted: 121 lbs.,643f1ac9000864d490eac1dd
+,,,,,,,CrossFit Waterford,32,Europe,Ireland,Abi,167 cm ,167 cm | 65 kg,Dennis,56712,234375, 65 kg,Weight lifted: 110 lbs.,643f1ac9000864d490eac1de
+,,,,,,,DeNovo CrossFit,48,North America,United States,Michelle,64 in ,64 in | 140 lb,Glasgow,56728,234431, 140 lb,Weight lifted: 105 lbs.,643f1ac9000864d490eac1df
+,,,,,,,Oso CrossFit,30,North America,United States,Maria Magdalena,5 in ,5 in | 131 lb,Portillo,56730,234443, 131 lb,Weight lifted: 120 lbs.,643f1ac9000864d490eac1e0
+,,,,,,,CrossFit V,24,Europe,Spain,Maria,155 cm ,155 cm | 53 kg,Martel Plasencia,56812,234682, 53 kg,Weight lifted: 110 lbs.,643f1ac9000864d490eac1e1
+,,,,,,,CrossFit Auctus,43,North America,Canada,Natalie,62 in ,62 in | 122 lb,Forest,56858,234870, 122 lb,Weight lifted: 105 lbs.,643f1ac9000864d490eac1e2
+,,,,,,,CrossFit Northern ICE,37,North America,Canada,Erin,61 in ,61 in | 125 lb,Bond,56915,235028, 125 lb,Weight lifted: 105 lbs.,643f1ac9000864d490eac1e3
+,,,,,,,CrossFit Harstad,34,Europe,Norway,Trine,169 cm ,169 cm | 58 kg,Kanebog,56943,235154, 58 kg,Weight lifted: 116 lbs.,643f1ac9000864d490eac1e4
+,,,,,,,CrossFit Snohomish,53,North America,United States,Wendy,62 in ,62 in | 130 lb,Judkins,56959,235219, 130 lb,Weight lifted: 107 lbs.,643f1ac9000864d490eac1e5
+,,,,,,,CrossFit Hidden Valley,30,North America,United States,Jacquelin,62 in ,62 in | 147 lb,Loizzo,56965,235231, 147 lb,Weight lifted: 115 lbs.,643f1ac9000864d490eac1e6
+,,,,,,,CrossFit Mafia,32,North America,United States,Hilary,67 in ,67 in | 155 lb,Booco,57034,235488, 155 lb,Weight lifted: 117 lbs.,643f1ac9000864d490eac1e7
+,,,,,,,Croga CrossFit,34,North America,United States,Wendy,65 in ,65 in | 128 lb,Noakes,57062,235588, 128 lb,Weight lifted: 115 lbs.,643f1ac9000864d490eac1e8
+,,,,,,,Riptide CrossFit,31,North America,United States,Ashley,65 in ,65 in | 135 lb,Crawford,57092,235686, 135 lb,Weight lifted: 125 lbs.,643f1ac9000864d490eac1e9
+,,,,,,,Snake River CrossFit,25,North America,United States,Kezia,65 in ,65 in | 140 lb,Young,57095,235706, 140 lb,Weight lifted: 112 lbs.,643f1ac9000864d490eac1ea
+,,,,,,,CrossFit Rapid Fire,24,North America,United States,Rachel,62 in ,62 in | 180 lb,Davis,57121,235809, 180 lb,Weight lifted: 170 lbs.,643f1ac9000864d490eac1eb
+,,,,,,,CrossFit Conifer,42,North America,United States,Jennifer,62 in ,62 in | 115 lb,Somogyi,57122,235811, 115 lb,Weight lifted: 105 lbs.,643f1ac9000864d490eac1ec
+,,,,,,,CrossFit Vitality,31,North America,United States,Michelle,67 in ,67 in | 147 lb,Thomas,57129,235833, 147 lb,Weight lifted: 130 lbs.,643f1ac9000864d490eac1ed
+,,,,,,,CrossFit G6,51,North America,United States,Dee Dee,62 in ,62 in | 120 lb,Flynt,57226,236193, 120 lb,Weight lifted: 106 lbs.,643f1ac9000864d490eac1ee
+,,,,,,,Trident CrossFit,54,North America,United States,Melanie,66 in ,66 in | 130 lb,Rowland,57269,236336, 130 lb,Weight lifted: 115 lbs.,643f1ac9000864d490eac1ef
+,,,,,,,CrossFit Subtero,34,Asia,Philippines,Aidelyn,153 cm ,153 cm | 53 kg,Lustre,57307,236472, 53 kg,Weight lifted: 105 lbs.,643f1ac9000864d490eac1f0
+,,,,,,,Mensch CrossFit,50,North America,United States,Diane,63 in ,63 in | 125 lb,Bashuk,57327,236550, 125 lb,Weight lifted: 100 lbs.,643f1ac9000864d490eac1f1
+,,,,,,,CrossFit Ljubljana,34,Europe,Slovenia,Janja,169 cm ,169 cm | 67 kg,Obal,57362,236690, 67 kg,Weight lifted: 122 lbs.,643f1ac9000864d490eac1f2
+,,,,,,,EF CrossFit Fridhemsplan,29,Europe,Sweden,Alexandra,160 cm ,160 cm | 55 kg,Santala Andersson,57400,236857, 55 kg,Weight lifted: 105 lbs.,643f1ac9000864d490eac1f3
+,,,,,,,CrossFit Wallingford,50,North America,United States,Jennifer,68 in ,68 in | 115 lb,Perrin,57452,237109, 115 lb,Weight lifted: 110 lbs.,643f1ac9000864d490eac1f4
+,,,,,,,CrossFit Costa Blanca,43,Europe,Spain,Olga,162 cm ,162 cm | 61 kg,Martín Martínez,57526,237320, 61 kg,Weight lifted: 111 lbs.,643f1ac9000864d490eac1f5
+,,,,,,,CrossFit DBN West,42,Africa,South Africa,Clair,160 cm ,160 cm | 57 kg,Nothard,57528,237322, 57 kg,Weight lifted: 99 lbs.,643f1ac9000864d490eac1f6
+,,,,,,,CrossFit Pieksamaki,29,Europe,Finland,Minka,165 cm ,165 cm | 56 kg,Kinnunen,57552,237388, 56 kg,Weight lifted: 99 lbs.,643f1ac9000864d490eac1f7
+,,,,,,,CrossFit Vice,43,North America,United States,Rachel,58 in ,58 in | 105 lb,Horwitz,57674,237828, 105 lb,Weight lifted: 100 lbs.,643f1ac9000864d490eac1f8
+,,,,,,,CrossFit By The Horns,31,North America,United States,Joanna,61 in ,61 in | 107 lb,Chan,57688,237861, 107 lb,Weight lifted: 100 lbs.,643f1ac9000864d490eac1f9
+,,,,,,,CrossFit Modig,18,North America,United States,Scotti,65 in ,65 in | 130 lb,Swanson,57771,238127, 130 lb,Weight lifted: 105 lbs.,643f1ac9000864d490eac1fa
+,,,,,,,CrossFit Mobilus Chinatown,30,Europe,Finland,Erika,163 cm ,163 cm | 65 kg,Nordlund,57859,238395, 65 kg,Weight lifted: 100 lbs.,643f1ac9000864d490eac1fb
+,,,,,,,Diablo CrossFit,50,North America,United States,Mel,61 in ,61 in | 115 lb,Gastellum,57879,238478, 115 lb,Weight lifted: 110 lbs.,643f1ac9000864d490eac1fc
+,,,,,,,CrossFit Hype,45,North America,United States,Jennifer,66 in ,66 in | 128 lb,Morello,57920,238659, 128 lb,Weight lifted: 105 lbs.,643f1ac9000864d490eac1fd
+,,,,,,,CrossFit Tupelo,30,North America,United States,Megan,63 in ,63 in | 125 lb,Hester,57954,238790, 125 lb,Weight lifted: 100 lbs.,643f1ac9000864d490eac1fe
+,,,,,,,CrossFit Soul Miami,50,North America,United States,Iva,60 in ,60 in | 100 lb,Hosang,57977,238858, 100 lb,Weight lifted: 95 lbs.,643f1ac9000864d490eac1ff
+,,,,,,,CrossFit OC3,49,North America,United States,Dawn,69 in ,69 in | 131 lb,Bergom,58034,239060, 131 lb,Weight lifted: 105 lbs.,643f1ac9000864d490eac200
+,,,,,,,Body Evolution CrossFit,32,North America,United States,Krista,68 in ,68 in | 150 lb,Jaworski,58084,239202, 150 lb,Weight lifted: 95 lbs.,643f1ac9000864d490eac201
+,,,,,,,CrossFit Unlimited Jennings,46,North America,United States,Keli,61 in ,61 in | 125 lb,Touchet,58087,239215, 125 lb,Weight lifted: 100 lbs.,643f1ac9000864d490eac202
+,,,,,,,CrossFit Radford,44,North America,United States,Tricia,62 in ,62 in | 116 lb,Hepler,58126,239332, 116 lb,Weight lifted: 95 lbs.,643f1ac9000864d490eac203
+,,,,,,,CrossFit Soul Miami,50,North America,United States,Nadine,67 in ,67 in | 155 lb,Figueroa,58338,240182, 155 lb,Weight lifted: 110 lbs.,643f1ac9000864d490eac204
+,,,,,,,CrossFit River Mersey,30,Europe,United Kingdom,Laura,171 cm ,171 cm | 53 kg,Lloyd,58522,240865, 53 kg,Weight lifted: 95 lbs.,643f1ac9000864d490eac205
+,,,,,,,CrossFit Irondale,38,North America,United States,Allyson,64 in ,64 in | 108 lb,Gilbert,58712,241485, 108 lb,Weight lifted: 90 lbs.,643f1ac9000864d490eac206
+,,,,,,,CrossFit Unwritten,40,North America,United States,Claudia,5 in ,5 in | 152 lb,Maffucci,58805,241759, 152 lb,Weight lifted: 105 lbs.,643f1ac9000864d490eac207
+,,,,,,,CrossFit MXL,32,North America,United States,Nora,69 in ,69 in | 145 lb,Jensen,58811,241780, 145 lb,Weight lifted: 100 lbs.,643f1ac9000864d490eac208
+,,,,,,,CrossFit Surmount,50,North America,United States,Janet,69 in ,69 in | 156 lb,Allen,58906,242071, 156 lb,Weight lifted: 99 lbs.,643f1ac9000864d490eac209
+,,,,,,,CrossFit Lacertus,40,North America,United States,Laura,63 in ,63 in | 147 lb,Mcnew,58940,242187, 147 lb,Weight lifted: 115 lbs.,643f1ac9000864d490eac20a
+,,,,,,,CrossFit Seinäjoki,52,Europe,Finland,Carita,172 cm ,172 cm | 59 kg,Borgenström,58963,242250, 59 kg,Weight lifted: 94 lbs.,643f1ac9000864d490eac20b
+,,,,,,,CrossFit Saintes,30,Europe,France,Manon,175 cm ,175 cm | 67 kg,Micheneau,59154,242884, 67 kg,Weight lifted: 99 lbs.,643f1ac9000864d490eac20c
+,,,,,,,CrossFit CFP9 CasaShopping,53,South America,Brazil,Sonia,161 cm ,161 cm | 70 kg,Martire,59185,242969, 70 kg,Weight lifted: 116 lbs.,643f1ac9000864d490eac20d
+,,,,,,,CrossFit Palestine,51,North America,United States,Shannon,61 in ,61 in | 115 lb,Hansel,59201,243042, 115 lb,Weight lifted: 90 lbs.,643f1ac9000864d490eac20e
+,,,,,,,CrossFit Bløf,43,Europe,Poland,Justyna,167 cm ,167 cm | 63 kg,Stankiewicz,59228,243170, 63 kg,Weight lifted: 93 lbs.,643f1ac9000864d490eac20f
+,,,,,,,CrossFit Condesa,34,South America,Venezuela,Andreina,168 cm ,168 cm | 60 kg,Behrens,59265,243313, 60 kg,Weight lifted: 105 lbs.,643f1ac9000864d490eac210
+,,,,,,,Forged Steele CrossFit,33,North America,United States,Ashley,65 in ,65 in | 130 lb,Barard,59305,243462, 130 lb,Weight lifted: 90 lbs.,643f1ac9000864d490eac211
+,,,,,,,Shotgun CrossFit,50,North America,United States,Cindy,60 in ,60 in | 120 lb,Castillo,59550,244287, 120 lb,Weight lifted: 100 lbs.,643f1ac9000864d490eac212
+,,,,,,,CrossFit Barigui II,34,South America,Brazil,Patricia,164 cm ,164 cm | 52 kg,Gonzalez,59573,244347, 52 kg,Weight lifted: 95 lbs.,643f1ac9000864d490eac213
+,,,,,,,CrossFit Fort Vancouver,28,North America,United States,Melissa,62 in ,62 in | 112 lb,Zorij,59633,244585, 112 lb,Weight lifted: 85 lbs.,643f1ac9000864d490eac214
+,,,,,,,CrossFit Scheveningen,25,Europe,Netherlands,Megan,164 cm ,164 cm | 50 kg,Cupedo,59825,245210, 50 kg,Weight lifted: 90 lbs.,643f1ac9000864d490eac215
+,,,,,,,Higher Life CrossFit,38,Africa,South Africa,Linee,158 cm ,158 cm | 50 kg,Havinga,59853,245285, 50 kg,Weight lifted: 86 lbs.,643f1ac9000864d490eac216
+,,,,,,,Arbor CrossFit,48,North America,United States,Robin,64 in ,64 in | 135 lb,Alcorn,59894,245444, 135 lb,Weight lifted: 95 lbs.,643f1ac9000864d490eac217
+,,,,,,,Higher Life CrossFit,32,Africa,South Africa,Vyvekah,165 cm ,165 cm | 59 kg,Lumley,60147,246292, 59 kg,Weight lifted: 81 lbs.,643f1ac9000864d490eac218
+,,,,,,,Bear Mountain CrossFit,30,North America,United States,Natalie,64 in ,64 in | 120 lb,Arcila,60404,247099, 120 lb,Weight lifted: 105 lbs.,643f1ac9000864d490eac219
+,,,,,,,CrossFit Bracknell,22,Europe,United Kingdom,Esther,169 cm ,169 cm | 68 kg,Jordinson,60588,247647, 68 kg,Weight lifted: 99 lbs.,643f1ac9000864d490eac21a
+,,,,,,,TGP CrossFit,39,North America,United States,Amy,66 in ,66 in | 145 lb,Weatherford,60735,248132, 145 lb,Weight lifted: 95 lbs.,643f1ac9000864d490eac21b
+,,,,,,,CrossFit Unite,49,North America,United States,Crystal,60 in ,60 in | 125 lb,Simpson,60784,248277, 125 lb,Weight lifted: 95 lbs.,643f1ac9000864d490eac21c
+,,,,,,,CrossFit The Club,52,North America,United States,Marcela,160 in ,160 in | 122 lb,Anderson,60787,248290, 122 lb,Weight lifted: 90 lbs.,643f1ac9000864d490eac21d
+,,,,,,,NWFC CrossFit,44,North America,United States,Julie,63 in ,63 in | 125 lb,Mays,60812,248374, 125 lb,Weight lifted: 100 lbs.,643f1ac9000864d490eac21e
+,,,,,,,CrossFit Beaumont,21,North America,United States,Diana,61 in ,61 in | 120 lb,Simiand,60967,248903, 120 lb,Weight lifted: 95 lbs.,643f1ac9000864d490eac21f
+,,,,,,,Elevation CrossFit,28,North America,United States,Janice,62 in ,62 in | 124 lb,Pearson,60997,249000, 124 lb,Weight lifted: 90 lbs.,643f1ac9000864d490eac220
+,,,,,,,CrossFit Itanhaem,31,South America,Brazil,Mayra,157 cm ,157 cm | 57 kg,Guia,61057,249217, 57 kg,Weight lifted: 99 lbs.,643f1ac9000864d490eac221
+,,,,,,,CrossFit NCS,23,North America,United States,Sarah,68 in ,68 in | 195 lb,Swiatek,61183,249575, 195 lb,Weight lifted: 95 lbs.,643f1ac9000864d490eac222
+,,,,,,,CrossFit CFP9 CasaShopping,25,South America,Brazil,Ana Carolina,154 cm ,154 cm | 47 lb,Terra,61233,249705, 47 lb,Weight lifted: 75 lbs.,643f1ac9000864d490eac223
+,,,,,,,Premonition CrossFit,40,North America,United States,Tuyet,61 in ,61 in | 158 lb,Kwei,61351,250091, 158 lb,Weight lifted: 115 lbs.,643f1ac9000864d490eac224
+,,,,,,,CrossFit Box Castelldefels,25,Europe,Spain,Laura,165 cm ,165 cm | 58 kg,Pastor Benedicto,61423,250324, 58 kg,Weight lifted: 100 lbs.,643f1ac9000864d490eac225
+,,,,,,,Terra CrossFit,39,Europe,Spain,Sara,173 cm ,173 cm | 63 kg,Garcia Gomez,61540,250700, 63 kg,Weight lifted: 88 lbs.,643f1ac9000864d490eac226
+,,,,,,,CrossFit Storm,50,North America,United States,Rosa,66 in ,66 in | 150 lb,Gil,61878,251733, 150 lb,Weight lifted: 100 lbs.,643f1ac9000864d490eac227
+,,,,,,,Boulder CrossFit,25,North America,United States,Monique,67 in ,67 in | 145 lb,Carvalho,62235,252857, 145 lb,Weight lifted: 85 lbs.,643f1ac9000864d490eac228
+,,,,,,,South Tampa CrossFit,17,North America,United States,Kinsley,62 in ,62 in | 130 lb,Moore,62279,252990, 130 lb,Weight lifted: 90 lbs.,643f1ac9000864d490eac229
+,,,,,,,CFB CrossFit,24,Europe,United Kingdom,Daisy,62 in ,62 in | 79 kg,Moore,62616,254113, 79 kg,Weight lifted: 44 lbs.,643f1ac9000864d490eac22a
+,,,,,,,CrossFit Le Cheile,27,Europe,Ireland,Georgina,165 cm ,165 cm | 71 kg,Jane,62733,254478, 71 kg,Weight lifted: 84 lbs.,643f1ac9000864d490eac22b
+,,,,,,,CrossFit Rx,47,North America,United States,Susan,66 in ,66 in | 160 lb,Duncan,62884,254937, 160 lb,Weight lifted: 90 lbs.,643f1ac9000864d490eac22c
+,,,,,,,Elevation CrossFit,46,North America,United States,Shannon,64 in ,64 in | 125 lb,Murray,62888,254945, 125 lb,Weight lifted: 85 lbs.,643f1ac9000864d490eac22d
+,,,,,,,Wine Country CrossFit,26,Europe,Italy,Giovanna,165 cm ,165 cm | 53 kg,Bagnasco,62950,255081, 53 kg,Weight lifted: 70 lbs.,643f1ac9000864d490eac22e
+,,,,,,,CrossFit Veracity,54,North America,United States,Kelly,62 in ,62 in | 120 lb,Loofbourrow,62968,255130, 120 lb,Weight lifted: 75 lbs.,643f1ac9000864d490eac22f
+,,,,,,,CrossFit Votuporanga,17,South America,Brazil,Iza,165 cm ,165 cm | 64 kg,Mendes,64152,258579, 64 kg,Weight lifted: 97 lbs.,643f1ac9000864d490eac230
+,,,,,,,CrossFit Key Largo,42,North America,Honduras,Nancy,6 in ,6 in | 130 lb,Kondon,64257,258905, 130 lb,Weight lifted: 65 lbs.,643f1ac9000864d490eac231
+,,,,,,,CrossFit Le Conquérant,33,Europe,France,Ludivine,164 cm ,164 cm | 79 kg,Marguerie,64597,259987, 79 kg,Weight lifted: 77 lbs.,643f1ac9000864d490eac232
+,,,,,,,CrossFit Göttingen,35,Europe,Germany,Kira,158 cm ,158 cm | 54 kg,Jazdzejewski,65028,261258, 54 kg,Weight lifted: 66 lbs.,643f1ac9000864d490eac233
+,,,,,,,CrossFit Decimate,28,North America,United States,Elisa,64 in ,64 in | 145 lb,Tiatia,65590,262773, 145 lb,Weight lifted: 166 lbs.,643f1ac9000864d490eac234
+,,,,,,,Titan 112 CrossFit,41,North America,United States,Jennifer,64 in ,64 in | 112 lb,Capozzi,68109,269365, 112 lb,Weight lifted: 65 lbs.,643f1ac9000864d490eac235
+,,,,,,,CrossFit Bison,24,North America,United States,Sally,67 in ,67 in | 134 lb,Li,71244,277314, 134 lb,Weight lifted: 95 lbs.,643f1ac9000864d490eac236
+,,,,,,,CrossFit Unlimited Jennings,51,North America,United States,Sheila,67 in ,67 in | 143 lb,Reed,71844,278881, 143 lb,Weight lifted: 15 lbs.,643f1ac9000864d490eac237
+,,,,,,,Superior CrossFit,51,North America,Canada,Adena,60 in ,60 in | 100 lb,Hicklin,72049,279433, 100 lb,Weight lifted: 85 lbs.,643f1ac9000864d490eac238
+,,,,,,,CrossFit Huntsman,42,Europe,United Kingdom,Sophie,169 in ,169 in | 140 lb,Chamberlain,72198,279786, 140 lb,Weight lifted: 93 lbs.,643f1ac9000864d490eac239
+,,,,,,,Declaration CrossFit,40,North America,United States,Christina,62 in ,62 in | 155 lb,Shepler,72293,280045, 155 lb,Weight lifted: 100 lbs.,643f1ac9000864d490eac23a
+,,,,,,,CrossFit Zwickau,42,Europe,Germany,Diana,166 cm ,166 cm | 60 kg,Hof,72638,280871, 60 kg,Weight lifted: 80 lbs.,643f1ac9000864d490eac23b
+,,,,,,,CrossFit Cabarrus,30,North America,United States,Cassie,64 in ,64 in | 150 lb,Hansen,73024,281860, 150 lb,Weight lifted: 115 lbs.,643f1ac9000864d490eac23c
+,,,,,,,CrossFit Southampton,31,Europe,United Kingdom,Tara,158 cm ,158 cm | 64 kg,Caddy-Watson,73133,282104, 64 kg,Weight lifted: 6 lbs.,643f1ac9000864d490eac23d
+,,,,,,,CrossFit 517,45,North America,United States,Melissa,62 in ,62 in | 119 lb,Krajewski,73520,283068, 119 lb,Weight lifted: 85 lbs.,643f1ac9000864d490eac23e
+,,,,,,,Okie CrossFit Tahlequah,28,North America,United States,Kaylin,64 in ,64 in | 165 lb,Hamilton,73755,283697, 165 lb,Weight lifted: 105 lbs.,643f1ac9000864d490eac23f
+,,,,,,,CrossFit Waterford,38,Europe,Ireland,Rachel,69 in ,69 in | 58 kg,Fleming,73900,284070, 58 kg,Weight lifted: 66 lbs.,643f1ac9000864d490eac240
+,,,,,,,Maori CrossFit,34,South America,Ecuador,Sofia,163 cm ,163 cm | 131 lb,Gabela,73940,284153, 131 lb,Weight lifted: 100 lbs.,643f1ac9000864d490eac241
+,,,,,,,CrossFit Marilia,29,South America,Brazil,Nayara,2 cm ,2 cm | 72 kg,Ranziny,73952,284177, 72 kg,Weight lifted: 110 lbs.,643f1ac9000864d490eac242
+,,,,,,,Salty Hive CrossFit,33,North America,United States,Tiffany,67 in ,67 in | 194 lb,Huber,74222,284867, 194 lb,Weight lifted: 105 lbs.,643f1ac9000864d490eac243
+,,,,,,,CrossFit Discernment,34,North America,United States,Laura,64 in ,64 in | 141 lb,Glenn,74467,285431, 141 lb,Weight lifted: 75 lbs.,643f1ac9000864d490eac244
+,,,,,,,CrossFit ATD,33,Europe,Netherlands,Marit,167 cm ,167 cm | 65 kg,Kersten,74785,286284, 65 kg,Weight lifted: 72 lbs.,643f1ac9000864d490eac245
+,,,,,,,Chikara CrossFit,32,Asia,Malaysia,May Mei,161 cm ,161 cm | 55 kg,Tan,75676,288596, 55 kg,Weight lifted: 95 lbs.,643f1ac9000864d490eac246
+,,,,,,,CrossFit PHX,37,North America,United States,Shilpa,60 in ,60 in | 115 lb,Ratnaparkhi,76538,290857, 115 lb,Weight lifted: 85 lbs.,643f1ac9000864d490eac247
+,,,,,,,CrossFit TMC,32,North America,United States,Norlynn,60 in ,60 in | 112 lb,Pasao,77335,292915, 112 lb,Weight lifted: 65 lbs.,643f1ac9000864d490eac248
+,,,,,,,CrossFit Celle,32,Europe,Germany,Franziska,176 cm ,176 cm | 68 kg,Basse,77982,294508, 68 kg,Weight lifted: 99 lbs.,643f1ac9000864d490eac249
+,,,,,,,CrossFit Reading,39,Europe,United Kingdom,Sity,65 in ,65 in | 108 lb,Holborn,78181,294991, 108 lb,Weight lifted: 77 lbs.,643f1ac9000864d490eac24a
+,,,,,,,CrossFit Burning Fire,22,Europe,France,Aurore,170 cm ,170 cm | 70 kg,Berthou,78533,295960, 70 kg,Weight lifted: 42 lbs.,643f1ac9000864d490eac24b
+,,,,,,,CrossFit Lilburn 678,27,North America,United States,Sophie,61 in ,61 in | 134 lb,Kassi,79119,297388, 134 lb,Weight lifted: 65 lbs.,643f1ac9000864d490eac24c
+,,,,,,,Floral City CrossFit,44,North America,United States,Amber,67 in ,67 in | 194 lb,Spino,81979,304633, 194 lb,Weight lifted: 80 lbs.,643f1ac9000864d490eac24d
+,,,,,,,CrossFit Southampton,38,Europe,United Kingdom,Rachel,172 cm ,172 cm | 53 kg,Stanbrook,82663,306502, 53 kg,Weight lifted: 66 lbs.,643f1ac9000864d490eac24e
+,,,,,,,CrossFit Alvalade,24,Europe,Portugal,Vitória,160 cm ,160 cm | 52 kg,Marques,82862,307050, 52 kg,Weight lifted: 44 lbs.,643f1ac9000864d490eac24f
+,,,,,,,Natrium CrossFit,33,Asia,Russian Federation,Evgeniia,155 cm ,155 cm | 45 kg,Kozmina,83266,308172, 45 kg,Weight lifted: 54 lbs.,643f1ac9000864d490eac250
+,,,,,,,CrossFit OKC,41,North America,United States,Erica,60 in ,60 in | 103 lb,Pepper,83434,308596, 103 lb,Weight lifted: 100 lbs.,643f1ac9000864d490eac251
+,,,,,,,CrossFit Cleveland,29,North America,United States,Courtney,64 in ,64 in | 135 lb,Werner,84024,310097, 135 lb,Weight lifted: 135 lbs.,643f1ac9000864d490eac252
+,,,,,,,CrossFit Vauxhall,47,Europe,United Kingdom,Clare,164 cm ,164 cm | 60 kg,Church,84154,310442, 60 kg,Weight lifted: 33 lbs.,643f1ac9000864d490eac253
+,,,,,,,CrossFit Rail Stop,36,North America,United States,Cassaundra,64 in ,64 in | 130 lb,Donatell,84155,310443, 130 lb,Weight lifted: 100 lbs.,643f1ac9000864d490eac254
+,,,,,,,CrossFit NCS,25,North America,United States,Alysia,62 in ,62 in | 125 lb,Schultz,84732,312064, 125 lb,Weight lifted: 145 lbs.,643f1ac9000864d490eac255
+,,,,,,,Black Oak CrossFit,43,Europe,Belgium,Lieve,170 cm ,170 cm | 81 kg,Descamps,85588,314407, 81 kg,Weight lifted: 77 lbs.,643f1ac9000864d490eac256
+,,,,,,,CrossFit Endzone,34,North America,United States,Christine,65 in ,65 in | 130 lb,England,85938,315412, 130 lb,Weight lifted: 80 lbs.,643f1ac9000864d490eac257
+,,,,,,,KCT CrossFit,49,Europe,United Kingdom,Tracy,155 cm ,155 cm | 65 kg,Robertson,86629,317654, 65 kg,Weight lifted: 77 lbs.,643f1ac9000864d490eac258
+,,,,,,,TandEm CrossFit,52,Oceania,Australia,Jackie,177 cm ,177 cm | 68 kg,Godfroy,87598,320564, 68 kg,Weight lifted: 59 lbs.,643f1ac9000864d490eac259
+,,,,,,,CrossFit 740,42,North America,United States,Kari,66 in ,66 in | 177 lb,James,87907,321507, 177 lb,Weight lifted: 65 lbs.,643f1ac9000864d490eac25a
+,,,,,,,CrossFit Southport,53,North America,United States,Mary Francis,64 in ,64 in | 160 lb,Stoker,88429,323109, 160 lb,Weight lifted: 90 lbs.,643f1ac9000864d490eac25b
+,,,,,,,Underwood Park CrossFit,41,North America,United States,Aimee,66 in ,66 in | 183 lb,Wojtowecz,88691,323946, 183 lb,Weight lifted: 105 lbs.,643f1ac9000864d490eac25c
+,,,,,,,CrossFit Murray,44,North America,United States,Angel,64 in ,64 in | 133 lb,Clere,88840,324449, 133 lb,Weight lifted: 85 lbs.,643f1ac9000864d490eac25d
+,,,,,,,CrossFit Torino,27,Europe,Italy,Sara,170 cm ,170 cm | 64 kg,Poli,89351,326111, 64 kg,Weight lifted: 0 lbs.,643f1ac9000864d490eac25e
+,,,,,,,CrossFit Progression,38,North America,United States,Julianne,67 in ,67 in | 160 lb,"O'Brien",91100,331957, 160 lb,Weight lifted: 165 lbs.,643f1ac9000864d490eac25f
+,,,,,,,CrossFit Tewkesbury,31,Europe,United Kingdom,Charlie,165 cm ,165 cm | 71 kg,Hill,91106,331976, 71 kg,Weight lifted: 110 lbs.,643f1ac9000864d490eac260
+,,,,,,,CrossFit SSP,31,North America,United States,Gabi,61 in ,61 in | 125 lb,Bradley,91347,332785, 125 lb,Weight lifted: 115 lbs.,643f1ac9000864d490eac261
+,,,,,,,CrossFit Surfside,29,North America,United States,Erin,68 in ,68 in | 150 lb,Fessler,91370,332865, 150 lb,Weight lifted: 85 lbs.,643f1ac9000864d490eac262
+,,,,,,,CrossFit Flower Mound,47,North America,United States,Mishi,66 in ,66 in | 207 lb,Lane,91375,332874, 207 lb,Weight lifted: 90 lbs.,643f1ac9000864d490eac263
+,,,,,,,CW1 CrossFit,43,Europe,United Kingdom,Kelly,65 in ,65 in | 63 kg,Bramley,91448,333104, 63 kg,Weight lifted: 88 lbs.,643f1ac9000864d490eac264
+,,,,,,,CrossFit Vice,39,North America,United States,Michelle,60 in ,60 in | 107 lb,Brown,91509,333272, 107 lb,Weight lifted: 80 lbs.,643f1ac9000864d490eac265
+,,,,,,,CrossFit Progression,39,North America,United States,Kelli,65 in ,65 in | 155 lb,Meyer,91516,333301, 155 lb,Weight lifted: 110 lbs.,643f1ac9000864d490eac266
+,,,,,,,Natural Strength CrossFit,40,North America,Canada,Sabrina,67 in ,67 in | 150 lb,Boechler,91592,333616, 150 lb,Weight lifted: 100 lbs.,643f1ac9000864d490eac267
+,,,,,,,Caged CrossFit,37,North America,United States,Ashley,69 in ,69 in | 138 lb,Lowery,91595,333620, 138 lb,Weight lifted: 120 lbs.,643f1ac9000864d490eac268
+,,,,,,,CrossFit Regensburg,36,Europe,Germany,Paola,167 cm ,167 cm | 71 kg,Pyrek,91615,333680, 71 kg,Weight lifted: 100 lbs.,643f1ac9000864d490eac269
+,,,,,,,The CrossFit Chamber,42,Oceania,Australia,Tammara,165 cm ,165 cm | 65 kg,Olds,91657,333848, 65 kg,Weight lifted: 77 lbs.,643f1ac9000864d490eac26a
+,,,,,,,CrossFit Vex,29,North America,United States,Ali,71 in ,71 in | 160 lb,Singer,91673,333905, 160 lb,Weight lifted: 115 lbs.,643f1ac9000864d490eac26b
+,,,,,,,CW1 CrossFit,39,Europe,United Kingdom,Cristina,165 cm ,165 cm | 59 kg,Díaz Cid Robbie,91709,334030, 59 kg,Weight lifted: 81 lbs.,643f1ac9000864d490eac26c
+,,,,,,,CrossFit Schneverdingen,27,Europe,Germany,Jessica,179 in ,179 in | 69 lb,Riebesehl,91772,334223, 69 lb,Weight lifted: 78 lbs.,643f1ac9000864d490eac26d
+,,,,,,,WhiteHart CrossFit,36,Europe,United Kingdom,Katie,177 cm ,177 cm | 63 kg,Fowler,91815,334341, 63 kg,Weight lifted: 66 lbs.,643f1ac9000864d490eac26e
+,,,,,,,T2 CrossFit,37,North America,United States,Audrey,64 in ,64 in | 232 lb,Holsclaw,91893,334624, 232 lb,Weight lifted: 90 lbs.,643f1ac9000864d490eac26f
+,,,,,,,CrossFit Bicester,38,Europe,United Kingdom,Ani,168 cm ,168 cm | 62 kg,Collishaw,91945,334767, 62 kg,Weight lifted: 77 lbs.,643f1ac9000864d490eac270
+,,,,,,,WhiteHart CrossFit,34,Europe,United Kingdom,Leah,170 cm ,170 cm | 57 kg,Jenkins,92073,335107, 57 kg,Weight lifted: 55 lbs.,643f1ac9000864d490eac271
+,,,,,,,Athlevo CrossFit,33,Europe,Germany,Daniela,163 cm ,163 cm | 69 kg,Nölte,92115,335241, 69 kg,Weight lifted: 66 lbs.,643f1ac9000864d490eac272
+,,,,,,,Off Limits CrossFit Benfica,28,Europe,Portugal,Nadine,164 cm ,164 cm | 60 kg,Gandaio,92244,335606, 60 kg,Weight lifted: 44 lbs.,643f1ac9000864d490eac273
+,,,,,,,CrossFit Now,30,North America,United States,Clarissa,63 in ,63 in | 145 lb,Willis,92284,335726, 145 lb,Weight lifted: 55 lbs.,643f1ac9000864d490eac274
+,,,,,,,CrossFit Rincon,34,North America,United States,Nadia,65 in ,65 in | 123 lb,Vera,92290,335739, 123 lb,Weight lifted: 70 lbs.,643f1ac9000864d490eac275
+,,,,,,,CrossFit Torque,54,North America,United States,Amie,63 in ,63 in | 130 lb,Owens,92330,335841, 130 lb,Weight lifted: 65 lbs.,643f1ac9000864d490eac276
+,,,,,,,Soul City CrossFit,28,North America,United States,Katelyn,68 in ,68 in | 160 lb,Hunt Lawrence,92340,335863, 160 lb,Weight lifted: 85 lbs.,643f1ac9000864d490eac277
+,,,,,,,CrossFit Piraeus,44,Europe,Greece,Afroditi,165 cm ,165 cm | 62 kg,Fragkouli,92398,336018, 62 kg,Weight lifted: 35 lbs.,643f1ac9000864d490eac278
+,,,,,,,Ikigai CrossFit,43,Europe,Germany,Yvonne,169 cm ,169 cm | 53 kg,Alt,92431,336101, 53 kg,Weight lifted: 66 lbs.,643f1ac9000864d490eac279
+,,,,,,,CrossFit Heilbronn,46,Europe,Germany,Elke,160 cm ,160 cm | 58 kg,Fuhrmann,92510,336323, 58 kg,Weight lifted: 51 lbs.,643f1ac9000864d490eac27a
+,,,,,,,CrossFit Leyland,26,Europe,United Kingdom,Lucy,160 in ,160 in | 56 kg,Sirvinskas,92535,336391, 56 kg,Weight lifted: 48 lbs.,643f1ac9000864d490eac27b
+,,,,,,,CrossFit Trnava,29,Europe,Slovakia,Maria,160 cm ,160 cm | 50 kg,Papankova,92541,336405, 50 kg,Weight lifted: 13 lbs.,643f1ac9000864d490eac27c
+,,,,,,,St. Helena CrossFit,51,North America,United States,Crissy,62 in ,62 in | 128 lb,Broyles,92557,336446, 128 lb,Weight lifted: 55 lbs.,643f1ac9000864d490eac27d
+,,,,,,,CrossFit Leyland,33,Europe,United Kingdom,Sally,62 in ,62 in | 175 lb,Foster,92580,336501, 175 lb,Weight lifted: 71 lbs.,643f1ac9000864d490eac27e
+,,,,,,,CrossFit Thurles,43,Europe,Ireland,Brí,175 cm ,175 cm | 67 kg,Greene,92597,336525, 67 kg,Weight lifted: 66 lbs.,643f1ac9000864d490eac27f
+,,,,,,,CrossFit Flower Mound,48,North America,United States,Karen,64 in ,64 in | 138 lb,Brown,92683,336728, 138 lb,Weight lifted: 35 lbs.,643f1ac9000864d490eac280
+,,,,,,,FFD CrossFit,28,South America,Brazil,Natalia,174 cm ,174 cm | 58 kg,Albuquerque,92713,336832, 58 kg,Weight lifted: 45 lbs.,643f1ac9000864d490eac281
+,,,,,,,CrossFit Dire Wolf,34,Europe,United Kingdom,Jamie,162 cm ,162 cm | 56 kg,King,92728,336863, 56 kg,Weight lifted: 17 lbs.,643f1ac9000864d490eac282
+,,,,,,,CrossFit Altrincham,40,Europe,United Kingdom,Ailsa,170 cm ,170 cm | 136 lb,Birchenough,92773,337001, 136 lb,Weight lifted: 35 lbs.,643f1ac9000864d490eac283
+,,,,,,,CrossFit Actuate,21,North America,Canada,Lauren,62 in ,62 in | 116 lb,Kaiser,92792,337069, 116 lb,Weight lifted: 60 lbs.,643f1ac9000864d490eac284
+,,,,,,,True Spirit CrossFit,49,North America,United States,Heidi,64 in ,64 in | 190 lb,Maxwell,92817,337126, 190 lb,Weight lifted: 50 lbs.,643f1ac9000864d490eac285
+,,,,,,,CrossFit Cachoeiro,38,South America,Brazil,Alessandra,159 cm ,159 cm | 59 kg,Pereira,92846,337203, 59 kg,Weight lifted: 77 lbs.,643f1ac9000864d490eac286
+,,,,,,,Iron Springs CrossFit,54,North America,United States,Brandi,63 in ,63 in | 135 lb,Wood,93016,337662, 135 lb,Weight lifted: 60 lbs.,643f1ac9000864d490eac287
+,,,,,,,CrossFit Proton,39,Europe,Slovakia,Veronika,180 in ,180 in | 68 kg,Kassayová,93184,338133, 68 kg,Weight lifted: 33 lbs.,643f1ac9000864d490eac288
+,,,,,,,Rose City CrossFit,36,North America,United States,Sophia,64 in ,64 in | 142 lb,Thomas,93330,338486, 142 lb,Weight lifted: 75 lbs.,643f1ac9000864d490eac289
+,,,,,,,CrossFit Green,32,North America,Canada,Kimberly,65 in ,65 in | 150 lb,Wong,93335,338502, 150 lb,Weight lifted: 17 lbs.,643f1ac9000864d490eac28a
+,,,,,,,CrossFit 4504,36,Oceania,Australia,Mandy-Leigh,159 cm ,159 cm | 63 kg,Hackart,93409,338665, 63 kg,Weight lifted: 22 lbs.,643f1ac9000864d490eac28b
+,,,,,,,CrossFit Leyland,33,Europe,United Kingdom,Charlotte,164 cm ,164 cm | 66 kg,Cox,93427,338692, 66 kg,Weight lifted: 33 lbs.,643f1ac9000864d490eac28c
+,,,,,,,CrossFit Rhein-Neckar,46,Europe,Germany,Birgit,173 cm ,173 cm | 67 kg,Baldauf,93497,338850, 67 kg,Weight lifted: 1 lbs.,643f1ac9000864d490eac28d
+,,,,,,,CrossFit Stony Brook,34,North America,United States,Victoria,69 in ,69 in | 145 lb,Michel,93516,338892, 145 lb,Weight lifted: 35 lbs.,643f1ac9000864d490eac28e
+,,,,,,,MKB CrossFit,35,Europe,France,Laetitia,170 cm ,170 cm | 69 kg,Decraene,93907,339829, 69 kg,Weight lifted: 13 lbs.,643f1ac9000864d490eac28f
+,,,,,,,CrossFit Tartu,37,Europe,Estonia,Sille,174 cm ,174 cm | 68 kg,Vaiksaar,93996,340095, 68 kg,Weight lifted: 16 lbs.,643f1ac9000864d490eac290
+,,,,,,,Wild Horizons CrossFit,54,North America,United States,Maria,63 in ,63 in | 157 lb,Wheeler,95263,344295, 157 lb,Weight lifted: 0 lbs.,643f1ac9000864d490eac291
+,,,,,,,Badger CrossFit,17,North America,United States,Stella,67 in ,67 in | 140 lb,Richards,100421,356203, 140 lb,Weight lifted: 0 lbs.,643f1ac9000864d490eac292
+,,,,,,,CW1 CrossFit,35,Europe,United Kingdom,Sarah,168 cm ,168 cm | 59 kg,Carter,102710,361337, 59 kg,Weight lifted: 0 lbs.,643f1ac9000864d490eac293
